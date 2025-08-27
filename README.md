@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[![Haoshen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssstf0rest&show_icons=true&theme=calm)](https://github.com/sssstf0rest/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sssstf0rest&show_icons=true&theme=calm&layout=compact)](https://github.com/sssstf0rest/github-readme-stats) 
+[![Haoshen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssstf0rest&show_icons=true&theme=transparent)](https://github.com/sssstf0rest/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sssstf0rest&show_icons=true&theme=transparent&layout=compact)](https://github.com/sssstf0rest/github-readme-stats) 
 
 <!--
 **sssstf0rest/sssstf0rest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
