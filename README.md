@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Sssst's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssstf0rest&show_icons=true&theme=radical)](https://github.com/sssstf0rest/github-readme-stats)
+[![Sssst's GitHub stats](https://github-readme-stats.vercel.app/api?username=sssstf0rest&show_icons=true&theme=gruvbox)](https://github.com/sssstf0rest/github-readme-stats)
 
 <!--
 **sssstf0rest/sssstf0rest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
