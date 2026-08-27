@@ -28,7 +28,7 @@
 </div>
 
 <!-- ═══════════════ 2 · HEADER + WAVE + SIDE GIF ═══════════════ -->
-## Hey there, I'm ⟨Your Name⟩ :wave:
+## Hey there, I'm ⟨Haoshen⟩ :wave:
 
 <img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" title="Do what you like, and do it best!" />
 
