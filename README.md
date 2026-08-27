@@ -70,9 +70,9 @@ about. Keep it short — this is the part people actually read.⟩
 ## 🛠️ Tools and Environments
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,neovim,visualstudio,androidstudio&theme=light&perline=14)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,kubernetes,terraform,ansible,jenkins,nginx&theme=light&perline=14)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,cloudflare,heroku,linux,ubuntu,arch,debian,bash,powershell,windows&theme=light&perline=14)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postman,notion,obsidian,ps,ai,pr,ae,blender,discord,stackoverflow&theme=light&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,kubernetes,nginx&theme=light&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,vercel,netlify,cloudflare,linux,ubuntu,arch,debian,bash,powershell,windows&theme=light&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,notion,obsidian,ps,pr,ae,blender,discord,stackoverflow&theme=light&perline=14)](https://skillicons.dev)
 
 <!-- ═══════════════ 6 · TECH STACK — SHIELDS BADGES ═══════════════ -->
 <!-- Alternative to #5 — text badges instead of icons. Pick one style, not both.
