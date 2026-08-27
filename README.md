@@ -31,13 +31,14 @@
 <!-- ═══════════════ 2 · HEADER + WAVE + SIDE GIF ═══════════════ -->
 ## Hey there, I'm Haoshen :wave:
 
-<!-- Tenor "Corgi Happy" (post 7614178), direct media URL.
-     The tenor-gif-embed <div>+<script> snippet does NOT work here: GitHub
-     strips <script> from READMEs, so only the fallback link would render.
-     Lighter variant (72 KB, marginally duller colour): swap AAAAC -> AAAAd
-     Note: this GIF has an opaque near-white background, so it shows as a
-     white block in GitHub dark mode. -->
-<img align="right" alt="happy corgi" width="380" src="https://media1.tenor.com/m/QBULXw7rTKMAAAAC/corgi-happy.gif" title="Do what you like, and do it best!" />
+<!-- Tenor "Corgi Happy" (post 7614178), background removed and hosted here.
+     The white backdrop was flood-filled to transparency from the borders, so
+     the corgi's white chest and paws stay opaque; it now sits on GitHub's own
+     background in both light and dark mode.
+     Local file, so no dependency on Tenor. Regenerate: see git history.
+     The tenor-gif-embed <div>+<script> snippet does NOT work in a README —
+     GitHub strips <script>, leaving only the fallback link. -->
+<img align="right" alt="happy corgi" width="380" src="./assets/corgi.gif" title="Do what you like, and do it best!" />
 
 ⟨One-line tagline — e.g. 🚀 Builder | 🤖 AI engineer | 🎯 Open-source enthusiast⟩
 
