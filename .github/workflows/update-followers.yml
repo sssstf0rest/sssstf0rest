@@ -1,0 +1,45 @@
+name: Update Follower Wall
+
+on:
+  schedule: # 03:00 UTC daily, offset from the summary-cards job at 00:00
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+# Prevent two runs racing to commit to master.
+concurrency:
+  group: update-followers
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    name: regenerate-follower-wall
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate the wall
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          PER_ROW: "6"
+          MAX_SHOWN: "24"
+        run: python scripts/update_followers.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No follower changes."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update follower wall"
+          git push
