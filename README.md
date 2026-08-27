@@ -24,12 +24,12 @@
 <!-- ═══════════════ 1 · ANIMATED TYPING BANNER ═══════════════ -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+%E2%9F%A8Your+Name%E2%9F%A9;Building+things+on+the+internet;Always+shipping)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+%E2%9F%A8Haoshen%E2%9F%A9;Open-Souce+Contributor;Always+thinking)
 
 </div>
 
 <!-- ═══════════════ 2 · HEADER + WAVE + SIDE GIF ═══════════════ -->
-## Hey there, I'm Forest :wave:
+## Hey there, I'm Haoshen :wave:
 
 <img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" title="Do what you like, and do it best!" />
 
@@ -45,13 +45,9 @@ about. Keep it short — this is the part people actually read.⟩
 <!-- ═══════════════ 3 · CONNECT / SOCIAL BADGES ═══════════════ -->
 ## 🤝 Connect
 
-[![Website](https://img.shields.io/badge/Website-⟨yoursite.com⟩-0f766e?style=flat-square&logo=googlechrome&logoColor=white)](https://⟨yoursite.com⟩)
-[![X](https://img.shields.io/badge/X-@⟨handle⟩-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/⟨handle⟩)
+[![Website](https://img.shields.io/badge/Website-sssst.is-a.dev-0f766e?style=flat-square&logo=googlechrome&logoColor=white)](sssst.is-a.dev)
+[![X](https://img.shields.io/badge/X-@eriiforest-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/eriiforest)
 [![GitHub](https://img.shields.io/badge/GitHub-sssstf0rest-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sssstf0rest)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-⟨name⟩-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/⟨name⟩)
-[![Email](https://img.shields.io/badge/Email-contact-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:⟨you@example.com⟩)
-[![Discord](https://img.shields.io/badge/Discord-⟨handle⟩-5865f2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/⟨id⟩)
-[![Telegram](https://img.shields.io/badge/Telegram-⟨handle⟩-26a5e4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/⟨handle⟩)
 
 <!-- ═══════════════ 4 · VISITOR + FOLLOWER COUNTERS ═══════════════ -->
 <p>
