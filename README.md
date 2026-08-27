@@ -24,7 +24,7 @@
 <!-- ═══════════════ 1 · ANIMATED TYPING BANNER ═══════════════ -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+%E2%9F%A8Haoshen%E2%9F%A9;Open-Souce+Contributor;Always+thinking)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Haoshen;Open-Souce+contributor;Keep+progressing)
 
 </div>
 
@@ -45,7 +45,7 @@ about. Keep it short — this is the part people actually read.⟩
 <!-- ═══════════════ 3 · CONNECT / SOCIAL BADGES ═══════════════ -->
 ## 🤝 Connect
 
-[![Website](https://img.shields.io/badge/Website-sssst.is-a.dev-0f766e?style=flat-square&logo=googlechrome&logoColor=white)](sssst.is-a.dev)
+[![Website](https://img.shields.io/badge/Website-<sssst.is-a.dev>-0f766e?style=flat-square&logo=googlechrome&logoColor=white)](sssst.is-a.dev)
 [![X](https://img.shields.io/badge/X-@eriiforest-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/eriiforest)
 [![GitHub](https://img.shields.io/badge/GitHub-sssstf0rest-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sssstf0rest)
 
