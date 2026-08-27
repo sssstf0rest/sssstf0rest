@@ -130,7 +130,7 @@ A lightweight Chrome extension that opens bookmarks in a new tab without navigat
 </table>
 
 <!-- ═══════════════ 9 · GITHUB STATS + STREAK ═══════════════ -->
-## 📊 GitHub Stats
+## 📊 GitHub Activities
 
 <!-- The stat + language cards are served from THIS repo, not a third-party host:
      .github/workflows/profile-summary-cards.yml regenerates them daily.
@@ -139,52 +139,11 @@ A lightweight Chrome extension that opens bookmarks in a new tab without navigat
      503 DEPLOYMENT_PAUSED (the owner's free Vercel deployment is switched off).
      Swap "github_dark" for any of the 66 folders in profile-summary-card-output/. -->
 
-<table>
-  <tr>
-    <td><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" /></a></td>
-    <td><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages by repo" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages by commit" /></a></td>
-    <td><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" /></a></td>
-  </tr>
-</table>
+[![](./profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!-- Streak is a different host and is currently up. -->
 ![Streak](https://streak-stats.demolab.com?user=sssstf0rest&theme=github-dark&hide_border=true)
 
-<!-- ═══════════════ 10 · CONTRIBUTION TIMELINE  [already in this repo] ═══════════════ -->
-## 📈 Contribution Timeline
-
-<!-- The remaining summary card: headline counts + a 12-month contribution graph.
-     The other four cards are in section 9 above — don't duplicate them here. -->
-
-[![](./profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<!-- ═══════════════ 11 · CONTRIBUTION ACTIVITY GRAPH ═══════════════ -->
-## 📉 Contribution Graph
-
-<!-- ⚠️ Currently returns 402 (the maintainer's Vercel quota is exhausted).
-     Self-host https://github.com/Ashutosh00710/github-readme-activity-graph
-     to use this, or drop the section. -->
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sssstf0rest&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- ═══════════════ 12 · TROPHY CASE ═══════════════ -->
-## 🏆 Trophies
-
-<!-- ⚠️ Currently returns 402 (maintainer's Vercel quota exhausted).
-     Self-host https://github.com/ryo-ma/github-profile-trophy or drop it. -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sssstf0rest&theme=darkhub&no-frame=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- ═══════════════ 13 · CONTRIBUTION SNAKE  [needs CI] ═══════════════ -->
-## 🐍 Contribution Snake
-
-<!-- NEEDS: .github/workflows/snake.yml (Platane/snk) — broken image until added. -->
-![Snake animation](https://raw.githubusercontent.com/sssstf0rest/sssstf0rest/output/github-contribution-grid-snake-dark.svg)
-
-<!-- ═══════════════ 14 · TOP FOLLOWERS WALL  [needs CI] ═══════════════ -->
 ## ✨ My Followers
 
 <!-- NEEDS: a script + workflow that rewrites everything between these markers. -->
