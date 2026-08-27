@@ -3,7 +3,7 @@
   FEATURE MENU — every section is numbered. Tell Claude which numbers to KEEP
   and the rest gets deleted.
 
-   1  Animated typing banner            10  Profile summary cards  [in repo]
+   1  Animated typing banner            10  Contribution timeline  [in repo]
    2  Header + wave + side GIF          11  Activity graph            [down]
    3  Connect / social badges           12  Trophy case               [down]
    4  Visitor + follower counters       13  Contribution snake     [needs CI]
@@ -11,7 +11,7 @@
    6  Tech stack — shields badges       15  Repo gallery by stars  [needs CI]
    7  About / current focus             16  Latest blog posts      [needs CI]
    8  Featured work  [live badges]      17  Philosophy quote
-   9  GitHub stats + streak    [down]   18  Footer / QR
+   9  GitHub stats + streak  [in repo]  18  Footer / QR
 
   [needs CI] = renders broken until the companion workflow is added.
   [down]     = the free public instance is currently returning an error;
@@ -132,35 +132,34 @@ A lightweight Chrome extension that opens bookmarks in a new tab without navigat
 <!-- ═══════════════ 9 · GITHUB STATS + STREAK ═══════════════ -->
 ## 📊 GitHub Stats
 
-<!-- ⚠️ github-readme-stats.vercel.app is returning 503 (the shared public
-     instance is chronically overloaded). The streak card below works fine.
-     Fix: deploy your own free copy of https://github.com/anuraghazra/github-readme-stats
-     to Vercel and swap the hostname — that's exactly what mason369 does with
-     "github-readme-stats-seven-blush-95.vercel.app". -->
+<!-- The stat + language cards are served from THIS repo, not a third-party host:
+     .github/workflows/profile-summary-cards.yml regenerates them daily.
+     No API token, no rate limits, and they cannot go down.
+     Replaced the github-readme-stats.vercel.app cards, which returned
+     503 DEPLOYMENT_PAUSED (the owner's free Vercel deployment is switched off).
+     Swap "github_dark" for any of the 66 folders in profile-summary-card-output/. -->
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=sssstf0rest&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssstf0rest&layout=compact&langs_count=8&theme=github_dark&hide_border=true" /></td>
+    <td><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" /></a></td>
+    <td><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages by repo" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages by commit" /></a></td>
+    <td><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" /></a></td>
   </tr>
 </table>
 
+<!-- Streak is a different host and is currently up. -->
 ![Streak](https://streak-stats.demolab.com?user=sssstf0rest&theme=github-dark&hide_border=true)
 
-<!-- ═══════════════ 10 · PROFILE SUMMARY CARDS  [already in this repo] ═══════════════ -->
-## 📈 GitHub Activity
+<!-- ═══════════════ 10 · CONTRIBUTION TIMELINE  [already in this repo] ═══════════════ -->
+## 📈 Contribution Timeline
 
-<!-- Generated daily by .github/workflows/profile-summary-cards.yml.
-     66 themes live in profile-summary-card-output/ — swap "github_dark"
-     below for any folder name in there (dracula, nord_dark, vue, tokyonight…). -->
+<!-- The remaining summary card: headline counts + a 12-month contribution graph.
+     The other four cards are in section 9 above — don't duplicate them here. -->
 
 [![](./profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](./profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](./profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!-- ═══════════════ 11 · CONTRIBUTION ACTIVITY GRAPH ═══════════════ -->
 ## 📉 Contribution Graph
