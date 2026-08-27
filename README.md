@@ -40,12 +40,7 @@ about. Keep it short — this is the part people actually read.⟩
 
 > ⚡ ⟨A line about what you're exploring right now.⟩
 
-<br clear="right"/>
-
-<!-- ═══════════════ 3 · CONNECT / SOCIAL BADGES ═══════════════ -->
-## 🤝 Connect
-
-[![Website](https://img.shields.io/badge/Website-<sssst.is-a.dev>-0f766e?style=flat-square&logo=googlechrome&logoColor=white)](sssst.is-a.dev)
+[![Website](https://img.shields.io/badge/Website-sssst.is--a.dev-0f766e?style=flat-square&logo=googlechrome&logoColor=white)](https://sssst.is-a.dev)
 [![X](https://img.shields.io/badge/X-@eriiforest-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/eriiforest)
 [![GitHub](https://img.shields.io/badge/GitHub-sssstf0rest-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sssstf0rest)
 
@@ -55,6 +50,22 @@ about. Keep it short — this is the part people actually read.⟩
   <a href="https://github.com/sssstf0rest?tab=followers"><img src="https://img.shields.io/github/followers/sssstf0rest?style=flat-square&logo=github&label=Followers&color=181717" alt="followers" /></a>
   <a href="https://github.com/sssstf0rest?tab=repositories"><img src="https://img.shields.io/github/stars/sssstf0rest?style=flat-square&logo=github&label=Total%20Stars&color=f7b93e" alt="stars" /></a>
 </p>
+
+<br clear="right"/>
+
+<!-- ═══════════════ 3 · CONNECT / SOCIAL BADGES ═══════════════ -->
+<!-- ## 🤝 Connect -->
+
+<!-- [![Website](https://img.shields.io/badge/Website-sssst.is--a.dev-0f766e?style=flat-square&logo=googlechrome&logoColor=white)](https://sssst.is-a.dev)
+[![X](https://img.shields.io/badge/X-@eriiforest-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/eriiforest)
+[![GitHub](https://img.shields.io/badge/GitHub-sssstf0rest-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sssstf0rest) -->
+
+<!-- ═══════════════ 4 · VISITOR + FOLLOWER COUNTERS ═══════════════ -->
+<!-- <p>
+  <img src="https://komarev.com/ghpvc/?username=sssstf0rest&color=blue&style=flat-square&label=Profile+Views" alt="profile views" />
+  <a href="https://github.com/sssstf0rest?tab=followers"><img src="https://img.shields.io/github/followers/sssstf0rest?style=flat-square&logo=github&label=Followers&color=181717" alt="followers" /></a>
+  <a href="https://github.com/sssstf0rest?tab=repositories"><img src="https://img.shields.io/github/stars/sssstf0rest?style=flat-square&logo=github&label=Total%20Stars&color=f7b93e" alt="stars" /></a>
+</p> -->
 
 <!-- ═══════════════ 5 · TECH STACK — SKILLICONS ═══════════════ -->
 ## 🧰 Languages and Frameworks
