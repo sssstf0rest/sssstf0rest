@@ -44,7 +44,7 @@ I like building small gadgets — the fun kind that quietly make my life easier.
 
 🎴 ACG · 🎼 Ensemble Music · 📷 Photography
 
-> Exploring the possibilities of AI and novel tools
+> ⚡ Exploring the possibilities of AI and novel tools
 
 [![Website](https://img.shields.io/badge/Website-sssst.is--a.dev-0f766e?style=flat-square&logo=googlechrome&logoColor=white)](https://sssst.is-a.dev)
 [![X](https://img.shields.io/badge/X-@eriiforest-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/eriiforest)
