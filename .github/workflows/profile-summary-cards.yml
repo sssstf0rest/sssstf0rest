@@ -7,6 +7,12 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# Two runs pushing to master at once make the loser fail on a rejected push.
+# Queue them instead of racing.
+concurrency:
+  group: profile-summary-cards
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
