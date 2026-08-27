@@ -106,17 +106,16 @@ about. Keep it short — this is the part people actually read.⟩
 <!-- ═══════════════ 8 · FEATURED WORK ═══════════════ -->
 ## 🚀 Featured Work
 
-- 🌐 [**⟨project-one⟩**](https://github.com/sssstf0rest/⟨project-one⟩) — ⟨one-line description of what it does and who it's for.⟩
-- 🎨 [**⟨project-two⟩**](https://github.com/sssstf0rest/⟨project-two⟩) — ⟨one-line description.⟩
-- 📘 [**⟨project-three⟩**](https://github.com/sssstf0rest/⟨project-three⟩) — ⟨one-line description.⟩
+- 🌐 [**⟨project-one⟩**](https://github.com/sssstf0rest/TabCloser) — ⟨one-line description of what it does and who it's for.⟩
+- 🎨 [**⟨project-two⟩**](https://github.com/sssstf0rest/Open-Bookmarks-in-New-Tab) — ⟨one-line description.⟩
 
 <!-- Pinned-repo cards — richer than a bullet list, same info.
      ⚠️ Same github-readme-stats outage as section 9 — see the note there. -->
-<a href="https://github.com/sssstf0rest/⟨project-one⟩">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sssstf0rest&repo=⟨project-one⟩&theme=github_dark" />
+<a href="https://github.com/sssstf0rest/TabCloser">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sssstf0rest&repo=TabCloser&theme=github_dark" />
 </a>
-<a href="https://github.com/sssstf0rest/⟨project-two⟩">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sssstf0rest&repo=⟨project-two⟩&theme=github_dark" />
+<a href="https://github.com/sssstf0rest/Open-Bookmarks-in-New-Tab">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sssstf0rest&repo=Open-Bookmarks-in-New-Tab&theme=github_dark" />
 </a>
 
 <!-- ═══════════════ 9 · GITHUB STATS + STREAK ═══════════════ -->
