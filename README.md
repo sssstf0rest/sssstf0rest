@@ -64,14 +64,12 @@ about. Keep it short — this is the part people actually read.⟩
 
 <!-- Full icon list: https://skillicons.dev — just delete what you don't use.
      &theme=dark also works if you prefer the darker tiles. -->
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,go,rust,java,c,cpp,cs,php,swift,kotlin,ruby,lua&theme=light&perline=14)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,vue,svelte,angular,nextjs,nuxtjs,tailwind,bootstrap,html,css,sass,vite,webpack,electron&theme=light&perline=14)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring,laravel,rails,graphql,prisma,deno,bun&theme=light&perline=14)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,supabase,firebase,elasticsearch,kafka,rabbitmq&theme=light&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,c,cpp,cs,swift&theme=light&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css&theme=light&perline=14)](https://skillicons.dev)
 
 ## 🛠️ Tools and Environments
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,neovim,visualstudio,androidstudio,sublime,figma&theme=light&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,neovim,visualstudio,androidstudio&theme=light&perline=14)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,kubernetes,terraform,ansible,jenkins,nginx&theme=light&perline=14)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,cloudflare,heroku,linux,ubuntu,arch,debian,bash,powershell,windows&theme=light&perline=14)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postman,notion,obsidian,ps,ai,pr,ae,blender,discord,stackoverflow&theme=light&perline=14)](https://skillicons.dev)
