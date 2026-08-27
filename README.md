@@ -92,17 +92,6 @@ about. Keep it short — this is the part people actually read.⟩
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-<!-- ═══════════════ 7 · ABOUT / CURRENT FOCUS ═══════════════ -->
-## 🎯 Current Focus
-
-- 🚀 ⟨What you're building right now.⟩
-- 🧩 ⟨A tool, library, or side project you're shipping.⟩
-- ✍️ ⟨What you're writing or sharing about.⟩
-- 🌱 ⟨What you're learning.⟩
-- 💬 Ask me about ⟨topics you enjoy talking about⟩.
-- 📫 Reach me at ⟨you@example.com⟩.
-- ⚡ Fun fact: ⟨something human⟩.
-
 <!-- ═══════════════ 8 · FEATURED WORK ═══════════════ -->
 ## 🚀 Featured Work
 
