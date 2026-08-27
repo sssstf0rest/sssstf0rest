@@ -35,6 +35,22 @@ END = "<!--END_SECTION:top-followers-->"
 NAME_MAX = 22
 
 
+def rate_limit_note(e):
+    """Turn a 403/429 into an actionable message instead of a traceback."""
+    remaining = e.headers.get("x-ratelimit-remaining")
+    reset = e.headers.get("x-ratelimit-reset")
+    if remaining == "0":
+        when = ""
+        if reset:
+            import datetime
+            t = datetime.datetime.fromtimestamp(int(reset), datetime.timezone.utc)
+            when = f" Resets at {t:%H:%M:%S} UTC."
+        tok = "" if os.environ.get("GITHUB_TOKEN") else (
+            " Set GITHUB_TOKEN to raise the limit from 60/hr to 5000/hr.")
+        return f"GitHub API rate limit exceeded.{when}{tok}"
+    return f"HTTP {e.code}: {e.reason}"
+
+
 def api(url):
     req = urllib.request.Request(url, headers={
         "Accept": "application/vnd.github+json",
@@ -122,7 +138,14 @@ def render(rows):
 
 
 def main():
-    followers = fetch_followers()
+    try:
+        followers = fetch_followers()
+    except urllib.error.HTTPError as e:
+        print(f"error: {rate_limit_note(e)}", file=sys.stderr)
+        return 1
+    except Exception as e:  # noqa: BLE001
+        print(f"error: {e}", file=sys.stderr)
+        return 1
     print(f"fetched {len(followers)} followers for {USERNAME}")
     rows = enrich(followers)
     print(f"enriched {len(rows)}")
