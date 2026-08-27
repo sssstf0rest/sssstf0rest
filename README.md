@@ -31,11 +31,13 @@
 <!-- ═══════════════ 2 · HEADER + WAVE + SIDE GIF ═══════════════ -->
 ## Hey there, I'm Haoshen :wave:
 
-<!-- Corgi. Alternates, same URL shape, just swap the id:
-       vGo2sgzeC8r60   corgi puppy running down a hallway (500x306, 1.0 MB)
-       ZjUjG4xgRiSOc   corgi being petted, rolled on its back (215x215, 968 KB)
-     To stop depending on GIPHY, download it to assets/ and use src="./assets/corgi.gif". -->
-<img align="right" alt="corgi" width="300" src="https://media.giphy.com/media/JwVWLRnZkh2M0/giphy.gif" title="Do what you like, and do it best!" />
+<!-- Tenor "Corgi Happy" (post 7614178), direct media URL.
+     The tenor-gif-embed <div>+<script> snippet does NOT work here: GitHub
+     strips <script> from READMEs, so only the fallback link would render.
+     Lighter variant (72 KB, marginally duller colour): swap AAAAC -> AAAAd
+     Note: this GIF has an opaque near-white background, so it shows as a
+     white block in GitHub dark mode. -->
+<img align="right" alt="happy corgi" width="380" src="https://media1.tenor.com/m/QBULXw7rTKMAAAAC/corgi-happy.gif" title="Do what you like, and do it best!" />
 
 ⟨One-line tagline — e.g. 🚀 Builder | 🤖 AI engineer | 🎯 Open-source enthusiast⟩
 
