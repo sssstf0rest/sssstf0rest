@@ -178,7 +178,7 @@ I like building small gadgets — the fun kind that quietly make my life easier.
      above always works. Same theme names apply to both. -->
 
 <!-- [![](./profile-summary-card-output/prussian/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sssstf0rest&theme=prussian)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sssstf0rest&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## ✨ My Followers
 
