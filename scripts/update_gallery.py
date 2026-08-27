@@ -19,6 +19,7 @@ import os
 import re
 import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 
 USERNAME = os.environ.get("USERNAME", "sssstf0rest")
@@ -89,7 +90,80 @@ def fetch(name):
         "stars": d.get("stargazers_count", 0),
         "forks": d.get("forks_count", 0),
         "updated": (d.get("pushed_at") or "")[:10],
+        "language": d.get("language"),
+        "webstore": webstore_id(d.get("homepage") or ""),
     }
+
+
+# label -> (hex colour, simple-icons slug, logo colour)
+LANGUAGES = {
+    "C#": ("239120", "csharp", "white"),
+    "C++": ("00599C", "cplusplus", "white"),
+    "C": ("A8B9CC", "c", "black"),
+    "JavaScript": ("f7df1e", "javascript", "black"),
+    "TypeScript": ("3178c6", "typescript", "white"),
+    "Python": ("3776ab", "python", "white"),
+    "Swift": ("F05138", "swift", "white"),
+    "Go": ("00ADD8", "go", "white"),
+    "Rust": ("000000", "rust", "white"),
+    "Java": ("007396", "openjdk", "white"),
+    "HTML": ("e34f26", "html5", "white"),
+    "Shell": ("89e051", "gnubash", "black"),
+}
+
+DARK = "1b1f23"
+
+
+def webstore_id(homepage):
+    """Pull the extension id out of a Chrome Web Store homepage URL, if any."""
+    m = re.search(r"chromewebstore\.google\.com/detail/[^/]+/([a-z]{32})", homepage)
+    return m.group(1) if m else None
+
+
+def badge(path, extra=""):
+    return f"https://img.shields.io/{path}?style=flat-square&labelColor={DARK}{extra}"
+
+
+def badges(r):
+    """Badge row for one project, strongest signal first."""
+    out = []
+    owner_repo = f"{USERNAME}/{r['name']}"
+    ext = r["webstore"]
+
+    if ext:
+        store = f"https://chromewebstore.google.com/detail/{ext}"
+        out.append((badge(f"chrome-web-store/v/{ext}",
+                          "&label=Web%20Store&color=4285f4&logo=googlechrome&logoColor=white"),
+                    store, "Web Store"))
+        out.append((badge(f"chrome-web-store/users/{ext}",
+                          "&label=Users&color=34a853&logo=googlechrome&logoColor=white"),
+                    store, "Users"))
+        out.append((badge(f"chrome-web-store/stars/{ext}", "&label=Rating&color=fbbc05"),
+                    store, "Rating"))
+
+    out.append((badge(f"github/stars/{owner_repo}", "&color=f7b93e&logo=github"),
+                f"{r['url']}/stargazers", "Stars"))
+    if r["forks"]:
+        out.append((badge(f"github/forks/{owner_repo}", "&color=6e7681&logo=github"),
+                    f"{r['url']}/forks", "Forks"))
+    out.append((badge(f"github/last-commit/{owner_repo}", "&color=58a6ff"), None, "Last commit"))
+
+    lang = r.get("language")
+    if lang:
+        colour, logo, logo_colour = LANGUAGES.get(lang, ("6e7681", "", "white"))
+        # shields escaping first (literal - and _ must be doubled), then
+        # percent-encode so characters like the "#" in "C#" survive the URL.
+        slug = urllib.parse.quote(lang.replace("-", "--").replace("_", "__"), safe="-_")
+        extra = f"&logo={logo}&logoColor={logo_colour}" if logo else ""
+        out.append((f"https://img.shields.io/badge/{slug}-{colour}?style=flat-square{extra}",
+                    None, lang))
+
+    lines = []
+    for src, href, alt in out:
+        img = f'<img src="{html.escape(src, quote=True)}" alt="{html.escape(alt, quote=True)}" />'
+        lines.append(f'  <a href="{html.escape(href, quote=True)}">{img}</a>' if href
+                     else f"  {img}")
+    return "\n".join(lines)
 
 
 def cell(r):
@@ -100,9 +174,7 @@ def cell(r):
         '<td width="50%" valign="top">\n'
         f'  <a href="{url}"><strong>{name}</strong></a><br>\n'
         f"  <sub>{desc}</sub><br><br>\n"
-        f'  <sub>Stars: <strong>{r["stars"]:,}</strong> · '
-        f'Forks: <strong>{r["forks"]:,}</strong> · '
-        f'Updated: <strong>{r["updated"]}</strong></sub>\n'
+        f"{badges(r)}\n"
         "</td>"
     )
 

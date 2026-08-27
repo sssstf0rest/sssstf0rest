@@ -122,24 +122,39 @@ about. Keep it short — this is the part people actually read.⟩
 <td width="50%" valign="top">
   <a href="https://github.com/sssstf0rest/Open-Bookmarks-in-New-Tab"><strong>Open-Bookmarks-in-New-Tab</strong></a><br>
   <sub>A Lightweight Chrome extension that opens bookmarks in a new tab without navigating the current page. Supports English and Chinese (EN|CH)</sub><br><br>
-  <sub>Stars: <strong>3</strong> · Forks: <strong>2</strong> · Updated: <strong>2026-08-21</strong></sub>
+  <a href="https://chromewebstore.google.com/detail/kklcekgmidaafmelbbbmmgcfgfigghmo"><img src="https://img.shields.io/chrome-web-store/v/kklcekgmidaafmelbbbmmgcfgfigghmo?style=flat-square&amp;labelColor=1b1f23&amp;label=Web%20Store&amp;color=4285f4&amp;logo=googlechrome&amp;logoColor=white" alt="Web Store" /></a>
+  <a href="https://chromewebstore.google.com/detail/kklcekgmidaafmelbbbmmgcfgfigghmo"><img src="https://img.shields.io/chrome-web-store/users/kklcekgmidaafmelbbbmmgcfgfigghmo?style=flat-square&amp;labelColor=1b1f23&amp;label=Users&amp;color=34a853&amp;logo=googlechrome&amp;logoColor=white" alt="Users" /></a>
+  <a href="https://chromewebstore.google.com/detail/kklcekgmidaafmelbbbmmgcfgfigghmo"><img src="https://img.shields.io/chrome-web-store/stars/kklcekgmidaafmelbbbmmgcfgfigghmo?style=flat-square&amp;labelColor=1b1f23&amp;label=Rating&amp;color=fbbc05" alt="Rating" /></a>
+  <a href="https://github.com/sssstf0rest/Open-Bookmarks-in-New-Tab/stargazers"><img src="https://img.shields.io/github/stars/sssstf0rest/Open-Bookmarks-in-New-Tab?style=flat-square&amp;labelColor=1b1f23&amp;color=f7b93e&amp;logo=github" alt="Stars" /></a>
+  <a href="https://github.com/sssstf0rest/Open-Bookmarks-in-New-Tab/forks"><img src="https://img.shields.io/github/forks/sssstf0rest/Open-Bookmarks-in-New-Tab?style=flat-square&amp;labelColor=1b1f23&amp;color=6e7681&amp;logo=github" alt="Forks" /></a>
+  <img src="https://img.shields.io/github/last-commit/sssstf0rest/Open-Bookmarks-in-New-Tab?style=flat-square&amp;labelColor=1b1f23&amp;color=58a6ff" alt="Last commit" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/sssstf0rest/TabCloser"><strong>TabCloser</strong></a><br>
   <sub>A lightweight Windows tray app that closes Google Chrome tabs with a double-click</sub><br><br>
-  <sub>Stars: <strong>1</strong> · Forks: <strong>0</strong> · Updated: <strong>2026-08-26</strong></sub>
+  <a href="https://github.com/sssstf0rest/TabCloser/stargazers"><img src="https://img.shields.io/github/stars/sssstf0rest/TabCloser?style=flat-square&amp;labelColor=1b1f23&amp;color=f7b93e&amp;logo=github" alt="Stars" /></a>
+  <img src="https://img.shields.io/github/last-commit/sssstf0rest/TabCloser?style=flat-square&amp;labelColor=1b1f23&amp;color=58a6ff" alt="Last commit" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&amp;logo=csharp&amp;logoColor=white" alt="C#" />
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/sssstf0rest/YouTube-in-New-Tab"><strong>YouTube-in-New-Tab</strong></a><br>
   <sub>A lightweight Chrome extension that opens supported YouTube video links in a new adjacent tab instead of replacing the current page</sub><br><br>
-  <sub>Stars: <strong>1</strong> · Forks: <strong>0</strong> · Updated: <strong>2026-03-20</strong></sub>
+  <a href="https://chromewebstore.google.com/detail/libbojpdkncihehffopapkegmonfkbdp"><img src="https://img.shields.io/chrome-web-store/v/libbojpdkncihehffopapkegmonfkbdp?style=flat-square&amp;labelColor=1b1f23&amp;label=Web%20Store&amp;color=4285f4&amp;logo=googlechrome&amp;logoColor=white" alt="Web Store" /></a>
+  <a href="https://chromewebstore.google.com/detail/libbojpdkncihehffopapkegmonfkbdp"><img src="https://img.shields.io/chrome-web-store/users/libbojpdkncihehffopapkegmonfkbdp?style=flat-square&amp;labelColor=1b1f23&amp;label=Users&amp;color=34a853&amp;logo=googlechrome&amp;logoColor=white" alt="Users" /></a>
+  <a href="https://chromewebstore.google.com/detail/libbojpdkncihehffopapkegmonfkbdp"><img src="https://img.shields.io/chrome-web-store/stars/libbojpdkncihehffopapkegmonfkbdp?style=flat-square&amp;labelColor=1b1f23&amp;label=Rating&amp;color=fbbc05" alt="Rating" /></a>
+  <a href="https://github.com/sssstf0rest/YouTube-in-New-Tab/stargazers"><img src="https://img.shields.io/github/stars/sssstf0rest/YouTube-in-New-Tab?style=flat-square&amp;labelColor=1b1f23&amp;color=f7b93e&amp;logo=github" alt="Stars" /></a>
+  <img src="https://img.shields.io/github/last-commit/sssstf0rest/YouTube-in-New-Tab?style=flat-square&amp;labelColor=1b1f23&amp;color=58a6ff" alt="Last commit" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/sssstf0rest/Open-Rubato"><strong>Open-Rubato</strong></a><br>
   <sub>TODO — add a description on the repo page and this line disappears.</sub><br><br>
-  <sub>Stars: <strong>0</strong> · Forks: <strong>0</strong> · Updated: <strong>2026-08-24</strong></sub>
+  <a href="https://github.com/sssstf0rest/Open-Rubato/stargazers"><img src="https://img.shields.io/github/stars/sssstf0rest/Open-Rubato?style=flat-square&amp;labelColor=1b1f23&amp;color=f7b93e&amp;logo=github" alt="Stars" /></a>
+  <img src="https://img.shields.io/github/last-commit/sssstf0rest/Open-Rubato?style=flat-square&amp;labelColor=1b1f23&amp;color=58a6ff" alt="Last commit" />
+  <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
 </td>
 </tr>
 </table>
