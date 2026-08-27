@@ -10,7 +10,7 @@
    5  Tech stack — skillicons           14  Top followers wall     [needs CI]
    6  Tech stack — shields badges       15  Repo gallery by stars  [needs CI]
    7  About / current focus             16  Latest blog posts      [needs CI]
-   8  Featured work                     17  Philosophy quote
+   8  Featured work  [live badges]      17  Philosophy quote
    9  GitHub stats + streak    [down]   18  Footer / QR
 
   [needs CI] = renders broken until the companion workflow is added.
@@ -95,17 +95,39 @@ about. Keep it short — this is the part people actually read.⟩
 <!-- ═══════════════ 8 · FEATURED WORK ═══════════════ -->
 ## 🚀 Featured Work
 
-- 🌐 [**⟨project-one⟩**](https://github.com/sssstf0rest/TabCloser) — ⟨one-line description of what it does and who it's for.⟩
-- 🎨 [**⟨project-two⟩**](https://github.com/sssstf0rest/Open-Bookmarks-in-New-Tab) — ⟨one-line description.⟩
+<!-- Badges are served by shields.io and update themselves — no workflow needed.
+     Swapped in after github-readme-stats.vercel.app went DEPLOYMENT_PAUSED.
+     Add a project: copy a <td> block and change the repo name. -->
 
-<!-- Pinned-repo cards — richer than a bullet list, same info.
-     ⚠️ Same github-readme-stats outage as section 9 — see the note there. -->
-<a href="https://github.com/sssstf0rest/TabCloser">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sssstf0rest&repo=TabCloser&theme=github_dark" />
-</a>
-<a href="https://github.com/sssstf0rest/Open-Bookmarks-in-New-Tab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sssstf0rest&repo=Open-Bookmarks-in-New-Tab&theme=github_dark" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [TabCloser](https://github.com/sssstf0rest/TabCloser)
+
+A lightweight Windows tray app that closes Google Chrome tabs with a double-click.
+
+[![Stars](https://img.shields.io/github/stars/sssstf0rest/TabCloser?style=flat-square&labelColor=1b1f23&color=f7b93e&logo=github)](https://github.com/sssstf0rest/TabCloser/stargazers)
+[![Forks](https://img.shields.io/github/forks/sssstf0rest/TabCloser?style=flat-square&labelColor=1b1f23&color=6e7681&logo=github)](https://github.com/sssstf0rest/TabCloser/forks)
+![Last commit](https://img.shields.io/github/last-commit/sssstf0rest/TabCloser?style=flat-square&labelColor=1b1f23&color=58a6ff)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [Open Bookmarks in New Tab](https://github.com/sssstf0rest/Open-Bookmarks-in-New-Tab)
+
+A lightweight Chrome extension that opens bookmarks in a new tab without navigating away from the current page. Supports English and Chinese.
+
+[![Web Store](https://img.shields.io/chrome-web-store/v/kklcekgmidaafmelbbbmmgcfgfigghmo?style=flat-square&label=Web%20Store&labelColor=1b1f23&color=4285f4&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/open-bookmarks-in-new-tab/kklcekgmidaafmelbbbmmgcfgfigghmo)
+[![Users](https://img.shields.io/chrome-web-store/users/kklcekgmidaafmelbbbmmgcfgfigghmo?style=flat-square&label=Users&labelColor=1b1f23&color=34a853&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/open-bookmarks-in-new-tab/kklcekgmidaafmelbbbmmgcfgfigghmo)
+[![Rating](https://img.shields.io/chrome-web-store/stars/kklcekgmidaafmelbbbmmgcfgfigghmo?style=flat-square&label=Rating&labelColor=1b1f23&color=fbbc05)](https://chromewebstore.google.com/detail/open-bookmarks-in-new-tab/kklcekgmidaafmelbbbmmgcfgfigghmo)
+[![Stars](https://img.shields.io/github/stars/sssstf0rest/Open-Bookmarks-in-New-Tab?style=flat-square&labelColor=1b1f23&color=f7b93e&logo=github)](https://github.com/sssstf0rest/Open-Bookmarks-in-New-Tab/stargazers)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+</table>
 
 <!-- ═══════════════ 9 · GITHUB STATS + STREAK ═══════════════ -->
 ## 📊 GitHub Stats
