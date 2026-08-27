@@ -170,9 +170,15 @@ I like building small gadgets — the fun kind that quietly make my life easier.
      Using the "prussian" theme: light-blue graph on a dark navy card.
      Note this is a solid card, so it reads as a dark block in light mode —
      "transparent" was the mode-adaptive option if you want that back.
-     Swap for any of the 66 folders in profile-summary-card-output/. -->
+     Swap for any of the 66 folders in profile-summary-card-output/.
 
-[![](./profile-summary-card-output/prussian/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+     Now pointing at the project's HOSTED endpoint instead of the local SVG,
+     so it renders live and needs no workflow run. Tradeoff: it is a
+     third-party service, so it can go down — the commented-out local path
+     above always works. Same theme names apply to both. -->
+
+<!-- [![](./profile-summary-card-output/prussian/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sssstf0rest&theme=prussian)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## ✨ My Followers
 
