@@ -40,12 +40,11 @@
      GitHub strips <script>, leaving only the fallback link. -->
 <img align="right" alt="happy corgi" width="380" src="./assets/corgi.gif" title="Do what you like, and do it best!" />
 
-⟨One-line tagline — e.g. 🚀 Builder | 🤖 AI engineer | 🎯 Open-source enthusiast⟩
+I like building small gadgets — the fun kind that quietly make my life easier.
 
-⟨Two or three sentences about who you are, what you build, and what you care
-about. Keep it short — this is the part people actually read.⟩
+🎴 ACG · 🎼 Ensemble Music · 📷 Photography
 
-> ⚡ ⟨A line about what you're exploring right now.⟩
+> ⚡ Exploring the possibilities of AI and novel tools.
 
 [![Website](https://img.shields.io/badge/Website-sssst.is--a.dev-0f766e?style=flat-square&logo=googlechrome&logoColor=white)](https://sssst.is-a.dev)
 [![X](https://img.shields.io/badge/X-@eriiforest-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/eriiforest)
@@ -168,11 +167,12 @@ about. Keep it short — this is the part people actually read.⟩
      No API token, no rate limits, and they cannot go down.
      Replaced the github-readme-stats.vercel.app cards, which returned
      503 DEPLOYMENT_PAUSED (the owner's free Vercel deployment is switched off).
-     Using the "transparent" theme so the card sits on GitHub's own background
-     in both light and dark mode. Swap "transparent" for any of the 66 folders
-     in profile-summary-card-output/ (github and graywhite are solid-white). -->
+     Using the "prussian" theme: light-blue graph on a dark navy card.
+     Note this is a solid card, so it reads as a dark block in light mode —
+     "transparent" was the mode-adaptive option if you want that back.
+     Swap for any of the 66 folders in profile-summary-card-output/. -->
 
-[![](./profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./profile-summary-card-output/prussian/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## ✨ My Followers
 
