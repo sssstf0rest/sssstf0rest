@@ -47,7 +47,7 @@ I like building small gadgets — the fun kind that quietly make my life easier.
 > ⚡ Exploring the possibilities of AI and novel tools
 
 [![Website](https://img.shields.io/badge/Website-sssst.is--a.dev-0f766e?style=flat-square&logo=googlechrome&logoColor=white)](https://sssst.is-a.dev)
-[![X](https://img.shields.io/badge/X-@eriiforest-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/eriiforest)
+[![Instagram](https://img.shields.io/badge/Instagram-@he.haoshen-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/he.haoshen/)
 [![GitHub](https://img.shields.io/badge/GitHub-sssstf0rest-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sssstf0rest)
 
 <!-- ═══════════════ 4 · VISITOR + FOLLOWER COUNTERS ═══════════════ -->
@@ -63,7 +63,7 @@ I like building small gadgets — the fun kind that quietly make my life easier.
 <!-- ## 🤝 Connect -->
 
 <!-- [![Website](https://img.shields.io/badge/Website-sssst.is--a.dev-0f766e?style=flat-square&logo=googlechrome&logoColor=white)](https://sssst.is-a.dev)
-[![X](https://img.shields.io/badge/X-@eriiforest-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/eriiforest)
+[![Instagram](https://img.shields.io/badge/Instagram-@he.haoshen-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/he.haoshen/)
 [![GitHub](https://img.shields.io/badge/GitHub-sssstf0rest-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sssstf0rest) -->
 
 <!-- ═══════════════ 4 · VISITOR + FOLLOWER COUNTERS ═══════════════ -->
