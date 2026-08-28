@@ -42,7 +42,7 @@
 
 I like building small gadgets — the fun kind that quietly make my life easier.
 
-🎴 ACG · 🎼 Ensemble Music · 📷 Photography
+🏸 Badminton · 🎼 Ensemble Music · 🎴 ACG · 📷 Photography
 
 > ⚡ Exploring the possibilities of AI and novel tools
 
