@@ -249,18 +249,18 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/Ari4ka"><sub><b>Ari4ka</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/Ganes-Sargar">
-        <img src="https://avatars.githubusercontent.com/u/228280694?v=4&s=100" width="80" alt="Ganes-Sargar" />
-      </a>
-      <br />
-      <a href="https://github.com/Ganes-Sargar"><sub><b>GANESH SARGAR</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/sakshamsharma9927729250-beep">
         <img src="https://avatars.githubusercontent.com/u/225564402?v=4&s=100" width="80" alt="sakshamsharma9927729250-beep" />
       </a>
       <br />
       <a href="https://github.com/sakshamsharma9927729250-beep"><sub><b>Saksham Sharma</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ganes-Sargar">
+        <img src="https://avatars.githubusercontent.com/u/228280694?v=4&s=100" width="80" alt="Ganes-Sargar" />
+      </a>
+      <br />
+      <a href="https://github.com/Ganes-Sargar"><sub><b>GANESH SARGAR</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/lilyNeema">
