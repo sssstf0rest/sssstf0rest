@@ -235,13 +235,6 @@ I like building small gadgets — the fun kind that quietly make my life easier.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/ancaferro">
-        <img src="https://avatars.githubusercontent.com/u/287352285?v=4&s=100" width="80" alt="ancaferro" />
-      </a>
-      <br />
-      <a href="https://github.com/ancaferro"><sub><b>Anca Kovach</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Ari4ka">
         <img src="https://avatars.githubusercontent.com/u/166764074?v=4&s=100" width="80" alt="Ari4ka" />
       </a>
