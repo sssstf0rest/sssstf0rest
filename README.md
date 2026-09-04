@@ -256,18 +256,18 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/Ganes-Sargar"><sub><b>GANESH SARGAR</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/lilyNeema">
-        <img src="https://avatars.githubusercontent.com/u/115627145?v=4&s=100" width="80" alt="lilyNeema" />
-      </a>
-      <br />
-      <a href="https://github.com/lilyNeema"><sub><b>Susan Neema</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/nuclearrockstone">
         <img src="https://avatars.githubusercontent.com/u/156778804?v=4&s=100" width="80" alt="nuclearrockstone" />
       </a>
       <br />
       <a href="https://github.com/nuclearrockstone"><sub><b>STONE ZHAO</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lilyNeema">
+        <img src="https://avatars.githubusercontent.com/u/115627145?v=4&s=100" width="80" alt="lilyNeema" />
+      </a>
+      <br />
+      <a href="https://github.com/lilyNeema"><sub><b>Susan Neema</b></sub></a>
     </td>
   </tr>
 </table>
