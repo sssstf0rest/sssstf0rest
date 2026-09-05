@@ -256,6 +256,13 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/Ganes-Sargar"><sub><b>GANESH SARGAR</b></sub></a>
     </td>
     <td align="center">
+      <a href="https://github.com/TheWind-upBird">
+        <img src="https://avatars.githubusercontent.com/u/131569995?v=4&s=100" width="80" alt="TheWind-upBird" />
+      </a>
+      <br />
+      <a href="https://github.com/TheWind-upBird"><sub><b>Toma</b></sub></a>
+    </td>
+    <td align="center">
       <a href="https://github.com/nuclearrockstone">
         <img src="https://avatars.githubusercontent.com/u/156778804?v=4&s=100" width="80" alt="nuclearrockstone" />
       </a>
