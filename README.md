@@ -205,6 +205,13 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/seckinyasar"><sub><b>Seckin Yasar</b></sub></a>
     </td>
     <td align="center">
+      <a href="https://github.com/yumiaura">
+        <img src="https://avatars.githubusercontent.com/u/235065808?v=4&s=100" width="80" alt="yumiaura" />
+      </a>
+      <br />
+      <a href="https://github.com/yumiaura"><sub><b>Olya Pi</b></sub></a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ipqwery">
         <img src="https://avatars.githubusercontent.com/u/188051590?v=4&s=100" width="80" alt="ipqwery" />
       </a>
@@ -225,6 +232,8 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <br />
       <a href="https://github.com/sarahofai"><sub><b>Blue</b></sub></a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/vibecodinguy">
         <img src="https://avatars.githubusercontent.com/u/258407493?v=4&s=100" width="80" alt="vibecodinguy" />
@@ -232,8 +241,6 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <br />
       <a href="https://github.com/vibecodinguy"><sub><b>Vibecodinguy</b></sub></a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Ari4ka">
         <img src="https://avatars.githubusercontent.com/u/166764074?v=4&s=100" width="80" alt="Ari4ka" />
@@ -269,6 +276,8 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <br />
       <a href="https://github.com/nuclearrockstone"><sub><b>STONE ZHAO</b></sub></a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/lilyNeema">
         <img src="https://avatars.githubusercontent.com/u/115627145?v=4&s=100" width="80" alt="lilyNeema" />
