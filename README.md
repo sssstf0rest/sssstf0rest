@@ -191,6 +191,13 @@ I like building small gadgets — the fun kind that quietly make my life easier.
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/standardgalactic">
+        <img src="https://avatars.githubusercontent.com/u/43516554?v=4&s=100" width="80" alt="standardgalactic" />
+      </a>
+      <br />
+      <a href="https://github.com/standardgalactic"><sub><b>Cogito Ergo Sum</b></sub></a>
+    </td>
+    <td align="center">
       <a href="https://github.com/helallao">
         <img src="https://avatars.githubusercontent.com/u/78656003?v=4&s=100" width="80" alt="helallao" />
       </a>
@@ -203,6 +210,13 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       </a>
       <br />
       <a href="https://github.com/seckinyasar"><sub><b>Seckin Yasar</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/xcontcom">
+        <img src="https://avatars.githubusercontent.com/u/209551153?v=4&s=100" width="80" alt="xcontcom" />
+      </a>
+      <br />
+      <a href="https://github.com/xcontcom"><sub><b>Serhii Herasymov</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/yumiaura">
@@ -218,6 +232,8 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <br />
       <a href="https://github.com/ipqwery"><sub><b>IPQuery</b></sub></a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/bludnic">
         <img src="https://avatars.githubusercontent.com/u/25831507?v=4&s=100" width="80" alt="bludnic" />
@@ -232,8 +248,13 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <br />
       <a href="https://github.com/sarahofai"><sub><b>Blue</b></sub></a>
     </td>
-  </tr>
-  <tr>
+    <td align="center">
+      <a href="https://github.com/md-abu-kayser">
+        <img src="https://avatars.githubusercontent.com/u/67516307?v=4&s=100" width="80" alt="md-abu-kayser" />
+      </a>
+      <br />
+      <a href="https://github.com/md-abu-kayser"><sub><b>Md Abu Kayser</b></sub></a>
+    </td>
     <td align="center">
       <a href="https://github.com/vibecodinguy">
         <img src="https://avatars.githubusercontent.com/u/258407493?v=4&s=100" width="80" alt="vibecodinguy" />
@@ -249,11 +270,27 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/Ari4ka"><sub><b>Ari4ka</b></sub></a>
     </td>
     <td align="center">
+      <a href="https://github.com/omartelo">
+        <img src="https://avatars.githubusercontent.com/u/125408621?v=4&s=100" width="80" alt="omartelo" />
+      </a>
+      <br />
+      <a href="https://github.com/omartelo"><sub><b>martelo</b></sub></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/sakshamsharma9927729250-beep">
         <img src="https://avatars.githubusercontent.com/u/225564402?v=4&s=100" width="80" alt="sakshamsharma9927729250-beep" />
       </a>
       <br />
       <a href="https://github.com/sakshamsharma9927729250-beep"><sub><b>Saksham Sharma</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/samuelc-01">
+        <img src="https://avatars.githubusercontent.com/u/94959646?v=4&s=100" width="80" alt="samuelc-01" />
+      </a>
+      <br />
+      <a href="https://github.com/samuelc-01"><sub><b>dev</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/Ganes-Sargar">
@@ -276,8 +313,6 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <br />
       <a href="https://github.com/nuclearrockstone"><sub><b>STONE ZHAO</b></sub></a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/lilyNeema">
         <img src="https://avatars.githubusercontent.com/u/115627145?v=4&s=100" width="80" alt="lilyNeema" />
