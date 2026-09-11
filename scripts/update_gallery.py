@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Regenerate the Featured Gallery in README.md.
 
-Renders a curated list of repos as a two-column table, ranked by stars, in the
+Renders a curated list of repos as a two-column table, in REPOS order, in the
 same markup freestylefly/freestylefly uses: name, description, then a
 "Stars · Forks · Updated" line. Stats come from the GitHub API, so they stay
 current without hand-editing.
@@ -28,20 +28,25 @@ README = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))
 START = "<!-- FEATURED:START -->"
 END = "<!-- FEATURED:END -->"
 
-# The curated list. Order here doesn't matter — output is ranked by stars.
+# The curated list, rendered in exactly this order (left-to-right, top-to-bottom).
 REPOS = [
+    "GPT-Navigator-Helper",
     "Open-Bookmarks-in-New-Tab",
     "TabCloser",
     "YouTube-in-New-Tab",
-    "Open-Rubato",
 ]
+
+# Chrome Web Store ids for repos whose GitHub homepage doesn't point at their
+# store listing (auto-detection reads the homepage). Setting the homepage on
+# the repo makes the entry here unnecessary.
+WEBSTORE = {
+    "GPT-Navigator-Helper": "bpbajpcoifjncefjgbnnafkcgmjdcdli",
+}
 
 # Fallback blurbs for repos with no GitHub description. Setting the description
 # on the repo itself is better: it shows up on GitHub too, and this dict can
 # then be emptied.
-DESCRIPTIONS = {
-    "Open-Rubato": "TODO — add a description on the repo page and this line disappears.",
-}
+DESCRIPTIONS = {}
 
 
 def rate_limit_note(e):
@@ -91,7 +96,7 @@ def fetch(name):
         "forks": d.get("forks_count", 0),
         "updated": (d.get("pushed_at") or "")[:10],
         "language": d.get("language"),
-        "webstore": webstore_id(d.get("homepage") or ""),
+        "webstore": WEBSTORE.get(name) or webstore_id(d.get("homepage") or ""),
     }
 
 
@@ -124,6 +129,22 @@ def badge(path, extra=""):
     return f"https://img.shields.io/{path}?style=flat-square&labelColor={DARK}{extra}"
 
 
+def shields_ok(url):
+    """False when shields renders a placeholder such as "users: not found" —
+    typical for a new store listing with no users or ratings yet. Dropping the
+    badge avoids a broken-looking card; it reappears on the next run once the
+    data exists. If shields can't be reached, render the badge anyway."""
+    req = urllib.request.Request(url, headers={"User-Agent": f"{USERNAME}-profile-readme"})
+    try:
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            body = resp.read().decode("utf-8", "replace")
+    except Exception:  # noqa: BLE001
+        return True
+    m = re.search(r"<title>([^<]*)</title>", body)
+    title = (m.group(1) if m else "").lower()
+    return not any(w in title for w in ("not found", "invalid", "inaccessible"))
+
+
 def badges(r):
     """Badge row for one project, strongest signal first."""
     out = []
@@ -132,14 +153,15 @@ def badges(r):
 
     if ext:
         store = f"https://chromewebstore.google.com/detail/{ext}"
-        out.append((badge(f"chrome-web-store/v/{ext}",
-                          "&label=Web%20Store&color=4285f4&logo=googlechrome&logoColor=white"),
-                    store, "Web Store"))
-        out.append((badge(f"chrome-web-store/users/{ext}",
-                          "&label=Users&color=34a853&logo=googlechrome&logoColor=white"),
-                    store, "Users"))
-        out.append((badge(f"chrome-web-store/stars/{ext}", "&label=Rating&color=fbbc05"),
-                    store, "Rating"))
+        for src, alt in (
+            (badge(f"chrome-web-store/v/{ext}",
+                   "&label=Web%20Store&color=4285f4&logo=googlechrome&logoColor=white"), "Web Store"),
+            (badge(f"chrome-web-store/users/{ext}",
+                   "&label=Users&color=34a853&logo=googlechrome&logoColor=white"), "Users"),
+            (badge(f"chrome-web-store/stars/{ext}", "&label=Rating&color=fbbc05"), "Rating"),
+        ):
+            if shields_ok(src):
+                out.append((src, store, alt))
 
     out.append((badge(f"github/stars/{owner_repo}", "&color=f7b93e&logo=github"),
                 f"{r['url']}/stargazers", "Stars"))
@@ -205,7 +227,6 @@ def main():
         # in place rather than replacing it with an empty-state message.
         print("error: no repos could be fetched; leaving README untouched", file=sys.stderr)
         return 1
-    rows.sort(key=lambda r: (-r["stars"], -r["forks"], r["name"].lower()))
     print(f"fetched {len(rows)}/{len(REPOS)} repos")
 
     with open(README, encoding="utf-8") as f:
