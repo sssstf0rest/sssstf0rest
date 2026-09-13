@@ -122,6 +122,7 @@ I like building small gadgets — the fun kind that quietly make my life easier.
   <a href="https://github.com/sssstf0rest/GPT-Navigator-Helper"><strong>GPT-Navigator-Helper</strong></a><br>
   <sub>A Chrome extension that helps fix ChatGPT’s missing native navigator by automatically loading conversation history</sub><br><br>
   <a href="https://chromewebstore.google.com/detail/bpbajpcoifjncefjgbnnafkcgmjdcdli"><img src="https://img.shields.io/chrome-web-store/v/bpbajpcoifjncefjgbnnafkcgmjdcdli?style=flat-square&amp;labelColor=1b1f23&amp;label=Web%20Store&amp;color=4285f4&amp;logo=googlechrome&amp;logoColor=white" alt="Web Store" /></a>
+  <a href="https://chromewebstore.google.com/detail/bpbajpcoifjncefjgbnnafkcgmjdcdli"><img src="https://img.shields.io/chrome-web-store/users/bpbajpcoifjncefjgbnnafkcgmjdcdli?style=flat-square&amp;labelColor=1b1f23&amp;label=Users&amp;color=34a853&amp;logo=googlechrome&amp;logoColor=white" alt="Users" /></a>
   <a href="https://github.com/sssstf0rest/GPT-Navigator-Helper/stargazers"><img src="https://img.shields.io/github/stars/sssstf0rest/GPT-Navigator-Helper?style=flat-square&amp;labelColor=1b1f23&amp;color=f7b93e&amp;logo=github" alt="Stars" /></a>
   <img src="https://img.shields.io/github/last-commit/sssstf0rest/GPT-Navigator-Helper?style=flat-square&amp;labelColor=1b1f23&amp;color=58a6ff" alt="Last commit" />
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
@@ -236,6 +237,20 @@ I like building small gadgets — the fun kind that quietly make my life easier.
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/Ali-hey-0">
+        <img src="https://avatars.githubusercontent.com/u/157505360?v=4&s=100" width="80" alt="Ali-hey-0" />
+      </a>
+      <br />
+      <a href="https://github.com/Ali-hey-0"><sub><b>Ali Heydari</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/arch-yunus">
+        <img src="https://avatars.githubusercontent.com/u/83650878?v=4&s=100" width="80" alt="arch-yunus" />
+      </a>
+      <br />
+      <a href="https://github.com/arch-yunus"><sub><b>Bahattin Yunus ÇETİN</b></sub></a>
+    </td>
+    <td align="center">
       <a href="https://github.com/yumiaura">
         <img src="https://avatars.githubusercontent.com/u/235065808?v=4&s=100" width="80" alt="yumiaura" />
       </a>
@@ -263,13 +278,8 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <br />
       <a href="https://github.com/ipqwery"><sub><b>IPQuery</b></sub></a>
     </td>
-    <td align="center">
-      <a href="https://github.com/bludnic">
-        <img src="https://avatars.githubusercontent.com/u/25831507?v=4&s=100" width="80" alt="bludnic" />
-      </a>
-      <br />
-      <a href="https://github.com/bludnic"><sub><b>bludnic</b></sub></a>
-    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/md-abu-kayser">
         <img src="https://avatars.githubusercontent.com/u/67516307?v=4&s=100" width="80" alt="md-abu-kayser" />
@@ -277,8 +287,13 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <br />
       <a href="https://github.com/md-abu-kayser"><sub><b>Md Abu Kayser</b></sub></a>
     </td>
-  </tr>
-  <tr>
+    <td align="center">
+      <a href="https://github.com/bludnic">
+        <img src="https://avatars.githubusercontent.com/u/25831507?v=4&s=100" width="80" alt="bludnic" />
+      </a>
+      <br />
+      <a href="https://github.com/bludnic"><sub><b>bludnic</b></sub></a>
+    </td>
     <td align="center">
       <a href="https://github.com/EimanTahir027">
         <img src="https://avatars.githubusercontent.com/u/277070735?v=4&s=100" width="80" alt="EimanTahir027" />
@@ -301,18 +316,20 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/mwakidenis"><sub><b>🐘</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/vibecodinguy">
-        <img src="https://avatars.githubusercontent.com/u/258407493?v=4&s=100" width="80" alt="vibecodinguy" />
-      </a>
-      <br />
-      <a href="https://github.com/vibecodinguy"><sub><b>Vibecodinguy</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/MahdiKordian">
         <img src="https://avatars.githubusercontent.com/u/314552004?v=4&s=100" width="80" alt="MahdiKordian" />
       </a>
       <br />
       <a href="https://github.com/MahdiKordian"><sub><b>Mahdi Kordian</b></sub></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vibecodinguy">
+        <img src="https://avatars.githubusercontent.com/u/258407493?v=4&s=100" width="80" alt="vibecodinguy" />
+      </a>
+      <br />
+      <a href="https://github.com/vibecodinguy"><sub><b>Vibecodinguy</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/josejairobaltazargallegos-afk">
@@ -321,8 +338,13 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <br />
       <a href="https://github.com/josejairobaltazargallegos-afk"><sub><b>josejairobaltazargall…</b></sub></a>
     </td>
-  </tr>
-  <tr>
+    <td align="center">
+      <a href="https://github.com/GoXLd">
+        <img src="https://avatars.githubusercontent.com/u/1161077?v=4&s=100" width="80" alt="GoXLd" />
+      </a>
+      <br />
+      <a href="https://github.com/GoXLd"><sub><b>Alexandre VANDEMOORTE…</b></sub></a>
+    </td>
     <td align="center">
       <a href="https://github.com/Ari4ka">
         <img src="https://avatars.githubusercontent.com/u/166764074?v=4&s=100" width="80" alt="Ari4ka" />
@@ -344,31 +366,10 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <br />
       <a href="https://github.com/shivam01112"><sub><b>Shivam Singh Negi</b></sub></a>
     </td>
-    <td align="center">
-      <a href="https://github.com/omartelo">
-        <img src="https://avatars.githubusercontent.com/u/125408621?v=4&s=100" width="80" alt="omartelo" />
-      </a>
-      <br />
-      <a href="https://github.com/omartelo"><sub><b>martelo</b></sub></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/saif-pixel1">
-        <img src="https://avatars.githubusercontent.com/u/213187499?v=4&s=100" width="80" alt="saif-pixel1" />
-      </a>
-      <br />
-      <a href="https://github.com/saif-pixel1"><sub><b>Saif Mansuri</b></sub></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/samuelc-01">
-        <img src="https://avatars.githubusercontent.com/u/94959646?v=4&s=100" width="80" alt="samuelc-01" />
-      </a>
-      <br />
-      <a href="https://github.com/samuelc-01"><sub><b>dev</b></sub></a>
-    </td>
   </tr>
 </table>
 
-<sub>Showing 24 of 32 followers.</sub>
+<sub>Showing 24 of 37 followers.</sub>
 <!--END_SECTION:top-followers-->
 
 </div>
