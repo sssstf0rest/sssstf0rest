@@ -353,23 +353,23 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/Ari4ka"><sub><b>Ari4ka</b></sub></a>
     </td>
     <td align="center">
+      <a href="https://github.com/RanjbarMohammad-1">
+        <img src="https://avatars.githubusercontent.com/u/72128106?v=4&s=100" width="80" alt="RanjbarMohammad-1" />
+      </a>
+      <br />
+      <a href="https://github.com/RanjbarMohammad-1"><sub><b>Mohammad Ranjbar</b></sub></a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Krishnasaini0001">
         <img src="https://avatars.githubusercontent.com/u/219104815?v=4&s=100" width="80" alt="Krishnasaini0001" />
       </a>
       <br />
       <a href="https://github.com/Krishnasaini0001"><sub><b>Krishnasaini0001</b></sub></a>
     </td>
-    <td align="center">
-      <a href="https://github.com/shivam01112">
-        <img src="https://avatars.githubusercontent.com/u/220692565?v=4&s=100" width="80" alt="shivam01112" />
-      </a>
-      <br />
-      <a href="https://github.com/shivam01112"><sub><b>Shivam Singh Negi</b></sub></a>
-    </td>
   </tr>
 </table>
 
-<sub>Showing 24 of 37 followers.</sub>
+<sub>Showing 24 of 38 followers.</sub>
 <!--END_SECTION:top-followers-->
 
 </div>
