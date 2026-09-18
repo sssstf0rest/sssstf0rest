@@ -334,11 +334,11 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/josejairobaltazargallegos-afk"><sub><b>josejairobaltazargall…</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/GoXLd">
-        <img src="https://avatars.githubusercontent.com/u/1161077?v=4&s=100" width="80" alt="GoXLd" />
+      <a href="https://github.com/shinobi-coder701">
+        <img src="https://avatars.githubusercontent.com/u/307791440?v=4&s=100" width="80" alt="shinobi-coder701" />
       </a>
       <br />
-      <a href="https://github.com/GoXLd"><sub><b>Alexandre VANDEMOORTE…</b></sub></a>
+      <a href="https://github.com/shinobi-coder701"><sub><b>Shinobi Coder</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/newsfriend">
@@ -355,11 +355,11 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/Krishnasaini0001"><sub><b>Krishnasaini0001</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/Ari4ka">
-        <img src="https://avatars.githubusercontent.com/u/166764074?v=4&s=100" width="80" alt="Ari4ka" />
+      <a href="https://github.com/GoXLd">
+        <img src="https://avatars.githubusercontent.com/u/1161077?v=4&s=100" width="80" alt="GoXLd" />
       </a>
       <br />
-      <a href="https://github.com/Ari4ka"><sub><b>Ari4ka</b></sub></a>
+      <a href="https://github.com/GoXLd"><sub><b>Alexandre VANDEMOORTE…</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/shivam01112">
@@ -371,7 +371,7 @@ I like building small gadgets — the fun kind that quietly make my life easier.
   </tr>
 </table>
 
-<sub>Showing 24 of 40 followers.</sub>
+<sub>Showing 24 of 41 followers.</sub>
 <!--END_SECTION:top-followers-->
 
 </div>
