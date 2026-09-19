@@ -371,7 +371,7 @@ I like building small gadgets — the fun kind that quietly make my life easier.
   </tr>
 </table>
 
-<sub>Showing 24 of 41 followers.</sub>
+<sub>Showing 24 of 42 followers.</sub>
 <!--END_SECTION:top-followers-->
 
 </div>
