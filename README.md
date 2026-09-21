@@ -297,18 +297,18 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/ipqwery"><sub><b>IPQuery</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/bludnic">
-        <img src="https://avatars.githubusercontent.com/u/25831507?v=4&s=100" width="80" alt="bludnic" />
-      </a>
-      <br />
-      <a href="https://github.com/bludnic"><sub><b>bludnic</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/MahdiKordian">
         <img src="https://avatars.githubusercontent.com/u/314552004?v=4&s=100" width="80" alt="MahdiKordian" />
       </a>
       <br />
       <a href="https://github.com/MahdiKordian"><sub><b>Mahdi Kordian</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bludnic">
+        <img src="https://avatars.githubusercontent.com/u/25831507?v=4&s=100" width="80" alt="bludnic" />
+      </a>
+      <br />
+      <a href="https://github.com/bludnic"><sub><b>bludnic</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/mwakidenis">
@@ -362,11 +362,11 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/Krishnasaini0001"><sub><b>Krishnasaini0001</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/GoXLd">
-        <img src="https://avatars.githubusercontent.com/u/1161077?v=4&s=100" width="80" alt="GoXLd" />
+      <a href="https://github.com/shahidazam2020-oss">
+        <img src="https://avatars.githubusercontent.com/u/242987063?v=4&s=100" width="80" alt="shahidazam2020-oss" />
       </a>
       <br />
-      <a href="https://github.com/GoXLd"><sub><b>Alexandre VANDEMOORTE…</b></sub></a>
+      <a href="https://github.com/shahidazam2020-oss"><sub><b>Shahid Azam</b></sub></a>
     </td>
   </tr>
 </table>
