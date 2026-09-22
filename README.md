@@ -327,18 +327,18 @@ I like building small gadgets — the fun kind that quietly make my life easier.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/vibecodinguy">
-        <img src="https://avatars.githubusercontent.com/u/258407493?v=4&s=100" width="80" alt="vibecodinguy" />
-      </a>
-      <br />
-      <a href="https://github.com/vibecodinguy"><sub><b>Vibecodinguy</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/shinobi-coder701">
         <img src="https://avatars.githubusercontent.com/u/307791440?v=4&s=100" width="80" alt="shinobi-coder701" />
       </a>
       <br />
       <a href="https://github.com/shinobi-coder701"><sub><b>Shinobi Coder</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vibecodinguy">
+        <img src="https://avatars.githubusercontent.com/u/258407493?v=4&s=100" width="80" alt="vibecodinguy" />
+      </a>
+      <br />
+      <a href="https://github.com/vibecodinguy"><sub><b>Vibecodinguy</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/josejairobaltazargallegos-afk">
@@ -348,18 +348,18 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/josejairobaltazargallegos-afk"><sub><b>josejairobaltazargall…</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/newsfriend">
-        <img src="https://avatars.githubusercontent.com/u/183625090?v=4&s=100" width="80" alt="newsfriend" />
-      </a>
-      <br />
-      <a href="https://github.com/newsfriend"><sub><b>Friend</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Krishnasaini0001">
         <img src="https://avatars.githubusercontent.com/u/219104815?v=4&s=100" width="80" alt="Krishnasaini0001" />
       </a>
       <br />
       <a href="https://github.com/Krishnasaini0001"><sub><b>Krishnasaini0001</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/newsfriend">
+        <img src="https://avatars.githubusercontent.com/u/183625090?v=4&s=100" width="80" alt="newsfriend" />
+      </a>
+      <br />
+      <a href="https://github.com/newsfriend"><sub><b>Friend</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/shahidazam2020-oss">
