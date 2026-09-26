@@ -311,18 +311,18 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/bludnic"><sub><b>bludnic</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/mwakidenis">
-        <img src="https://avatars.githubusercontent.com/u/182089390?v=4&s=100" width="80" alt="mwakidenis" />
-      </a>
-      <br />
-      <a href="https://github.com/mwakidenis"><sub><b>🐘</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/shinobi-coder701">
         <img src="https://avatars.githubusercontent.com/u/307791440?v=4&s=100" width="80" alt="shinobi-coder701" />
       </a>
       <br />
       <a href="https://github.com/shinobi-coder701"><sub><b>Shinobi Coder</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mwakidenis">
+        <img src="https://avatars.githubusercontent.com/u/182089390?v=4&s=100" width="80" alt="mwakidenis" />
+      </a>
+      <br />
+      <a href="https://github.com/mwakidenis"><sub><b>🐘</b></sub></a>
     </td>
   </tr>
   <tr>
