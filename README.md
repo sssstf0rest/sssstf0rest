@@ -290,18 +290,18 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/MahdiKordian"><sub><b>Mahdi Kordian</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/ipqwery">
-        <img src="https://avatars.githubusercontent.com/u/188051590?v=4&s=100" width="80" alt="ipqwery" />
-      </a>
-      <br />
-      <a href="https://github.com/ipqwery"><sub><b>IPQuery</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/shinobi-coder701">
         <img src="https://avatars.githubusercontent.com/u/307791440?v=4&s=100" width="80" alt="shinobi-coder701" />
       </a>
       <br />
       <a href="https://github.com/shinobi-coder701"><sub><b>Shinobi Coder</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ipqwery">
+        <img src="https://avatars.githubusercontent.com/u/188051590?v=4&s=100" width="80" alt="ipqwery" />
+      </a>
+      <br />
+      <a href="https://github.com/ipqwery"><sub><b>IPQuery</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/bludnic">
@@ -355,23 +355,23 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/Krishnasaini0001"><sub><b>Krishna Saini</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/newsfriend">
-        <img src="https://avatars.githubusercontent.com/u/183625090?v=4&s=100" width="80" alt="newsfriend" />
-      </a>
-      <br />
-      <a href="https://github.com/newsfriend"><sub><b>Friend</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/GoXLd">
         <img src="https://avatars.githubusercontent.com/u/1161077?v=4&s=100" width="80" alt="GoXLd" />
       </a>
       <br />
       <a href="https://github.com/GoXLd"><sub><b>Alexandre VANDEMOORTE…</b></sub></a>
     </td>
+    <td align="center">
+      <a href="https://github.com/shivam01112">
+        <img src="https://avatars.githubusercontent.com/u/220692565?v=4&s=100" width="80" alt="shivam01112" />
+      </a>
+      <br />
+      <a href="https://github.com/shivam01112"><sub><b>Shivam Singh Negi</b></sub></a>
+    </td>
   </tr>
 </table>
 
-<sub>Showing 24 of 42 followers.</sub>
+<sub>Showing 24 of 41 followers.</sub>
 <!--END_SECTION:top-followers-->
 
 </div>
