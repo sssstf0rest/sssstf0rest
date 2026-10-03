@@ -318,27 +318,20 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/bludnic"><sub><b>bludnic</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/sarahofai">
-        <img src="https://avatars.githubusercontent.com/u/220635541?v=4&s=100" width="80" alt="sarahofai" />
-      </a>
-      <br />
-      <a href="https://github.com/sarahofai"><sub><b>Blue</b></sub></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/shahidazam2020-oss">
         <img src="https://avatars.githubusercontent.com/u/242987063?v=4&s=100" width="80" alt="shahidazam2020-oss" />
       </a>
       <br />
       <a href="https://github.com/shahidazam2020-oss"><sub><b>Shahid Azam</b></sub></a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <a href="https://github.com/vibecodinguy">
-        <img src="https://avatars.githubusercontent.com/u/258407493?v=4&s=100" width="80" alt="vibecodinguy" />
+      <a href="https://github.com/sarahofai">
+        <img src="https://avatars.githubusercontent.com/u/220635541?v=4&s=100" width="80" alt="sarahofai" />
       </a>
       <br />
-      <a href="https://github.com/vibecodinguy"><sub><b>Vibecodinguy</b></sub></a>
+      <a href="https://github.com/sarahofai"><sub><b>Blue</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/josejairobaltazargallegos-afk">
@@ -346,6 +339,13 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       </a>
       <br />
       <a href="https://github.com/josejairobaltazargallegos-afk"><sub><b>josejairobaltazargall…</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vibecodinguy">
+        <img src="https://avatars.githubusercontent.com/u/258407493?v=4&s=100" width="80" alt="vibecodinguy" />
+      </a>
+      <br />
+      <a href="https://github.com/vibecodinguy"><sub><b>Vibecodinguy</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/Krishnasaini0001">
