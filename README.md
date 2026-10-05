@@ -297,18 +297,18 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/MahdiKordian"><sub><b>Mahdi Kordian</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/ipqwery">
-        <img src="https://avatars.githubusercontent.com/u/188051590?v=4&s=100" width="80" alt="ipqwery" />
-      </a>
-      <br />
-      <a href="https://github.com/ipqwery"><sub><b>IPQuery</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mwakidenis">
         <img src="https://avatars.githubusercontent.com/u/182089390?v=4&s=100" width="80" alt="mwakidenis" />
       </a>
       <br />
       <a href="https://github.com/mwakidenis"><sub><b>🐘</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ipqwery">
+        <img src="https://avatars.githubusercontent.com/u/188051590?v=4&s=100" width="80" alt="ipqwery" />
+      </a>
+      <br />
+      <a href="https://github.com/ipqwery"><sub><b>IPQuery</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/bludnic">
