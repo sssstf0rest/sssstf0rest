@@ -253,18 +253,18 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/yumiaura"><sub><b>Olya Pi</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/CharlesCreativeContent">
-        <img src="https://avatars.githubusercontent.com/u/62077627?v=4&s=100" width="80" alt="CharlesCreativeContent" />
-      </a>
-      <br />
-      <a href="https://github.com/CharlesCreativeContent"><sub><b>Shawn Charles</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/rahuloraj">
         <img src="https://avatars.githubusercontent.com/u/119727688?v=4&s=100" width="80" alt="rahuloraj" />
       </a>
       <br />
       <a href="https://github.com/rahuloraj"><sub><b>Rahul Raj</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/CharlesCreativeContent">
+        <img src="https://avatars.githubusercontent.com/u/62077627?v=4&s=100" width="80" alt="CharlesCreativeContent" />
+      </a>
+      <br />
+      <a href="https://github.com/CharlesCreativeContent"><sub><b>Shawn Charles</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/raviwijerathna1">
