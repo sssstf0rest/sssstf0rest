@@ -290,18 +290,18 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/shinobi-coder701"><sub><b>Shinobi Coder</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/MahdiKordian">
-        <img src="https://avatars.githubusercontent.com/u/314552004?v=4&s=100" width="80" alt="MahdiKordian" />
-      </a>
-      <br />
-      <a href="https://github.com/MahdiKordian"><sub><b>Mahdi Kordian</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mwakidenis">
         <img src="https://avatars.githubusercontent.com/u/182089390?v=4&s=100" width="80" alt="mwakidenis" />
       </a>
       <br />
       <a href="https://github.com/mwakidenis"><sub><b>🐘</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MahdiKordian">
+        <img src="https://avatars.githubusercontent.com/u/314552004?v=4&s=100" width="80" alt="MahdiKordian" />
+      </a>
+      <br />
+      <a href="https://github.com/MahdiKordian"><sub><b>Mahdi Kordian</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/shahidazam2020-oss">
@@ -355,23 +355,23 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/Krishnasaini0001"><sub><b>Krishna Saini</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/alfredshingai">
-        <img src="https://avatars.githubusercontent.com/u/252406987?v=4&s=100" width="80" alt="alfredshingai" />
-      </a>
-      <br />
-      <a href="https://github.com/alfredshingai"><sub><b>Alfred Shingai</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/s4ntrx">
         <img src="https://avatars.githubusercontent.com/u/328856308?v=4&s=100" width="80" alt="s4ntrx" />
       </a>
       <br />
       <a href="https://github.com/s4ntrx"><sub><b>S4NTRX</b></sub></a>
     </td>
+    <td align="center">
+      <a href="https://github.com/alfredshingai">
+        <img src="https://avatars.githubusercontent.com/u/252406987?v=4&s=100" width="80" alt="alfredshingai" />
+      </a>
+      <br />
+      <a href="https://github.com/alfredshingai"><sub><b>Alfred Shingai</b></sub></a>
+    </td>
   </tr>
 </table>
 
-<sub>Showing 24 of 40 followers.</sub>
+<sub>Showing 24 of 41 followers.</sub>
 <!--END_SECTION:top-followers-->
 
 </div>
