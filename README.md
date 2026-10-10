@@ -223,18 +223,18 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/helallao"><sub><b>Ali Yaşar</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/xcontcom">
-        <img src="https://avatars.githubusercontent.com/u/209551153?v=4&s=100" width="80" alt="xcontcom" />
-      </a>
-      <br />
-      <a href="https://github.com/xcontcom"><sub><b>Serhii Herasymov</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Ali-hey-0">
         <img src="https://avatars.githubusercontent.com/u/157505360?v=4&s=100" width="80" alt="Ali-hey-0" />
       </a>
       <br />
       <a href="https://github.com/Ali-hey-0"><sub><b>Ali Heydari</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/xcontcom">
+        <img src="https://avatars.githubusercontent.com/u/209551153?v=4&s=100" width="80" alt="xcontcom" />
+      </a>
+      <br />
+      <a href="https://github.com/xcontcom"><sub><b>Serhii Herasymov</b></sub></a>
     </td>
   </tr>
   <tr>
