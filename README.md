@@ -239,11 +239,11 @@ I like building small gadgets — the fun kind that quietly make my life easier.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/arch-yunus">
-        <img src="https://avatars.githubusercontent.com/u/83650878?v=4&s=100" width="80" alt="arch-yunus" />
+      <a href="https://github.com/bahattinyunus">
+        <img src="https://avatars.githubusercontent.com/u/83650878?v=4&s=100" width="80" alt="bahattinyunus" />
       </a>
       <br />
-      <a href="https://github.com/arch-yunus"><sub><b>Bahattin Yunus ÇETİN</b></sub></a>
+      <a href="https://github.com/bahattinyunus"><sub><b>Bahattin Yunus ÇETİN</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/yumiaura">
@@ -297,18 +297,18 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/mwakidenis"><sub><b>🐘</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/MahdiKordian">
-        <img src="https://avatars.githubusercontent.com/u/314552004?v=4&s=100" width="80" alt="MahdiKordian" />
-      </a>
-      <br />
-      <a href="https://github.com/MahdiKordian"><sub><b>Mahdi Kordian</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/shahidazam2020-oss">
         <img src="https://avatars.githubusercontent.com/u/242987063?v=4&s=100" width="80" alt="shahidazam2020-oss" />
       </a>
       <br />
       <a href="https://github.com/shahidazam2020-oss"><sub><b>Shahid Azam</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MahdiKordian">
+        <img src="https://avatars.githubusercontent.com/u/314552004?v=4&s=100" width="80" alt="MahdiKordian" />
+      </a>
+      <br />
+      <a href="https://github.com/MahdiKordian"><sub><b>Mahdi Kordian</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/ipqwery">
