@@ -327,13 +327,6 @@ I like building small gadgets — the fun kind that quietly make my life easier.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/sarahofai">
-        <img src="https://avatars.githubusercontent.com/u/220635541?v=4&s=100" width="80" alt="sarahofai" />
-      </a>
-      <br />
-      <a href="https://github.com/sarahofai"><sub><b>Blue</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/josejairobaltazargallegos-afk">
         <img src="https://avatars.githubusercontent.com/u/255776148?v=4&s=100" width="80" alt="josejairobaltazargallegos-afk" />
       </a>
@@ -348,13 +341,6 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/vibecodinguy"><sub><b>Vibecodinguy</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/Krishnasaini0001">
-        <img src="https://avatars.githubusercontent.com/u/219104815?v=4&s=100" width="80" alt="Krishnasaini0001" />
-      </a>
-      <br />
-      <a href="https://github.com/Krishnasaini0001"><sub><b>Krishna Saini</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/s4ntrx">
         <img src="https://avatars.githubusercontent.com/u/328856308?v=4&s=100" width="80" alt="s4ntrx" />
       </a>
@@ -362,11 +348,25 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/s4ntrx"><sub><b>S4NTRX</b></sub></a>
     </td>
     <td align="center">
+      <a href="https://github.com/Krishnasaini0001">
+        <img src="https://avatars.githubusercontent.com/u/219104815?v=4&s=100" width="80" alt="Krishnasaini0001" />
+      </a>
+      <br />
+      <a href="https://github.com/Krishnasaini0001"><sub><b>Krishna Saini</b></sub></a>
+    </td>
+    <td align="center">
       <a href="https://github.com/alfredshingai">
         <img src="https://avatars.githubusercontent.com/u/252406987?v=4&s=100" width="80" alt="alfredshingai" />
       </a>
       <br />
       <a href="https://github.com/alfredshingai"><sub><b>Alfred Shingai</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lxcadoza993">
+        <img src="https://avatars.githubusercontent.com/u/324579685?v=4&s=100" width="80" alt="lxcadoza993" />
+      </a>
+      <br />
+      <a href="https://github.com/lxcadoza993"><sub><b>lxcadoza993</b></sub></a>
     </td>
   </tr>
 </table>
