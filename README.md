@@ -304,18 +304,18 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/ipqwery"><sub><b>IPQuery</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/bludnic">
-        <img src="https://avatars.githubusercontent.com/u/25831507?v=4&s=100" width="80" alt="bludnic" />
-      </a>
-      <br />
-      <a href="https://github.com/bludnic"><sub><b>bludnic</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/salikhussain71-code">
         <img src="https://avatars.githubusercontent.com/u/271632164?v=4&s=100" width="80" alt="salikhussain71-code" />
       </a>
       <br />
       <a href="https://github.com/salikhussain71-code"><sub><b>Salik Hussain</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bludnic">
+        <img src="https://avatars.githubusercontent.com/u/25831507?v=4&s=100" width="80" alt="bludnic" />
+      </a>
+      <br />
+      <a href="https://github.com/bludnic"><sub><b>bludnic</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/josejairobaltazargallegos-afk">
