@@ -274,20 +274,20 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/shinobi-coder701"><sub><b>Shinobi Coder</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/mwakidenis">
-        <img src="https://avatars.githubusercontent.com/u/182089390?v=4&s=100" width="80" alt="mwakidenis" />
-      </a>
-      <br />
-      <a href="https://github.com/mwakidenis"><sub><b>🐘</b></sub></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/shahidazam2020-oss">
         <img src="https://avatars.githubusercontent.com/u/242987063?v=4&s=100" width="80" alt="shahidazam2020-oss" />
       </a>
       <br />
       <a href="https://github.com/shahidazam2020-oss"><sub><b>Shahid Azam</b></sub></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mwakidenis">
+        <img src="https://avatars.githubusercontent.com/u/182089390?v=4&s=100" width="80" alt="mwakidenis" />
+      </a>
+      <br />
+      <a href="https://github.com/mwakidenis"><sub><b>🐘</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/MahdiKordian">
@@ -297,18 +297,18 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/MahdiKordian"><sub><b>Mahdi Kordian</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/ipqwery">
-        <img src="https://avatars.githubusercontent.com/u/188051590?v=4&s=100" width="80" alt="ipqwery" />
-      </a>
-      <br />
-      <a href="https://github.com/ipqwery"><sub><b>IPQuery</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/salikhussain71-code">
         <img src="https://avatars.githubusercontent.com/u/271632164?v=4&s=100" width="80" alt="salikhussain71-code" />
       </a>
       <br />
       <a href="https://github.com/salikhussain71-code"><sub><b>Salik Hussain</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ipqwery">
+        <img src="https://avatars.githubusercontent.com/u/188051590?v=4&s=100" width="80" alt="ipqwery" />
+      </a>
+      <br />
+      <a href="https://github.com/ipqwery"><sub><b>IPQuery</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/bludnic">
