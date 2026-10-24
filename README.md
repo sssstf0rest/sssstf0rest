@@ -267,11 +267,11 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/md-abu-kayser"><sub><b>Md Abu Kayser</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/shinobi-coder701">
-        <img src="https://avatars.githubusercontent.com/u/307791440?v=4&s=100" width="80" alt="shinobi-coder701" />
+      <a href="https://github.com/kpopdev">
+        <img src="https://avatars.githubusercontent.com/u/28566705?v=4&s=100" width="80" alt="kpopdev" />
       </a>
       <br />
-      <a href="https://github.com/shinobi-coder701"><sub><b>Shinobi Coder</b></sub></a>
+      <a href="https://github.com/kpopdev"><sub><b>Kyla</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/shahidazam2020-oss">
@@ -282,6 +282,13 @@ I like building small gadgets — the fun kind that quietly make my life easier.
     </td>
   </tr>
   <tr>
+    <td align="center">
+      <a href="https://github.com/shinobi-coder701">
+        <img src="https://avatars.githubusercontent.com/u/307791440?v=4&s=100" width="80" alt="shinobi-coder701" />
+      </a>
+      <br />
+      <a href="https://github.com/shinobi-coder701"><sub><b>Shinobi Coder</b></sub></a>
+    </td>
     <td align="center">
       <a href="https://github.com/mwakidenis">
         <img src="https://avatars.githubusercontent.com/u/182089390?v=4&s=100" width="80" alt="mwakidenis" />
@@ -317,6 +324,8 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <br />
       <a href="https://github.com/bludnic"><sub><b>bludnic</b></sub></a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/josejairobaltazargallegos-afk">
         <img src="https://avatars.githubusercontent.com/u/255776148?v=4&s=100" width="80" alt="josejairobaltazargallegos-afk" />
@@ -324,8 +333,6 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <br />
       <a href="https://github.com/josejairobaltazargallegos-afk"><sub><b>josejairobaltazargall…</b></sub></a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/vibecodinguy">
         <img src="https://avatars.githubusercontent.com/u/258407493?v=4&s=100" width="80" alt="vibecodinguy" />
@@ -361,17 +368,10 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <br />
       <a href="https://github.com/GoXLd"><sub><b>Alexandre VANDEMOORTE…</b></sub></a>
     </td>
-    <td align="center">
-      <a href="https://github.com/Ari4ka">
-        <img src="https://avatars.githubusercontent.com/u/166764074?v=4&s=100" width="80" alt="Ari4ka" />
-      </a>
-      <br />
-      <a href="https://github.com/Ari4ka"><sub><b>Ari4ka</b></sub></a>
-    </td>
   </tr>
 </table>
 
-<sub>Showing 24 of 38 followers.</sub>
+<sub>Showing 24 of 39 followers.</sub>
 <!--END_SECTION:top-followers-->
 
 </div>
