@@ -267,18 +267,18 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/md-abu-kayser"><sub><b>Md Abu Kayser</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/kpopdev">
-        <img src="https://avatars.githubusercontent.com/u/28566705?v=4&s=100" width="80" alt="kpopdev" />
-      </a>
-      <br />
-      <a href="https://github.com/kpopdev"><sub><b>Kyla</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/shahidazam2020-oss">
         <img src="https://avatars.githubusercontent.com/u/242987063?v=4&s=100" width="80" alt="shahidazam2020-oss" />
       </a>
       <br />
       <a href="https://github.com/shahidazam2020-oss"><sub><b>Shahid Azam</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kpopdev">
+        <img src="https://avatars.githubusercontent.com/u/28566705?v=4&s=100" width="80" alt="kpopdev" />
+      </a>
+      <br />
+      <a href="https://github.com/kpopdev"><sub><b>Kyla</b></sub></a>
     </td>
   </tr>
   <tr>
