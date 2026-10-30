@@ -355,18 +355,18 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/lxcadoza993"><sub><b>lxcadoza993</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/shivam01112">
-        <img src="https://avatars.githubusercontent.com/u/220692565?v=4&s=100" width="80" alt="shivam01112" />
-      </a>
-      <br />
-      <a href="https://github.com/shivam01112"><sub><b>Shivam Singh Negi</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/GoXLd">
         <img src="https://avatars.githubusercontent.com/u/1161077?v=4&s=100" width="80" alt="GoXLd" />
       </a>
       <br />
       <a href="https://github.com/GoXLd"><sub><b>Alexandre VANDEMOORTE…</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shivam01112">
+        <img src="https://avatars.githubusercontent.com/u/220692565?v=4&s=100" width="80" alt="shivam01112" />
+      </a>
+      <br />
+      <a href="https://github.com/shivam01112"><sub><b>Shivam Singh Negi</b></sub></a>
     </td>
   </tr>
 </table>
