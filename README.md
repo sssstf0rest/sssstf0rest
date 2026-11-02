@@ -355,11 +355,11 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/lxcadoza993"><sub><b>lxcadoza993</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/coffsec">
-        <img src="https://avatars.githubusercontent.com/u/336862857?v=4&s=100" width="80" alt="coffsec" />
+      <a href="https://github.com/shivam01112">
+        <img src="https://avatars.githubusercontent.com/u/220692565?v=4&s=100" width="80" alt="shivam01112" />
       </a>
       <br />
-      <a href="https://github.com/coffsec"><sub><b>coffsec</b></sub></a>
+      <a href="https://github.com/shivam01112"><sub><b>Shivam Singh Negi</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/GoXLd">
@@ -371,7 +371,7 @@ I like building small gadgets — the fun kind that quietly make my life easier.
   </tr>
 </table>
 
-<sub>Showing 24 of 40 followers.</sub>
+<sub>Showing 24 of 39 followers.</sub>
 <!--END_SECTION:top-followers-->
 
 </div>
