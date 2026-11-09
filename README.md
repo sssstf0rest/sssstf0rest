@@ -220,7 +220,7 @@ I like building small gadgets — the fun kind that quietly make my life easier.
         <img src="https://avatars.githubusercontent.com/u/79897291?v=4&s=100" width="80" alt="0vm" />
       </a>
       <br />
-      <a href="https://github.com/0vm"><sub><b>Ak</b></sub></a>
+      <a href="https://github.com/0vm"><sub><b>Dion Tag</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/xcontcom">
@@ -362,16 +362,16 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/Krishnasaini0001"><sub><b>Krishna Saini</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/aixisstudio">
-        <img src="https://avatars.githubusercontent.com/u/45413729?v=4&s=100" width="80" alt="aixisstudio" />
+      <a href="https://github.com/lxcadoza993">
+        <img src="https://avatars.githubusercontent.com/u/324579685?v=4&s=100" width="80" alt="lxcadoza993" />
       </a>
       <br />
-      <a href="https://github.com/aixisstudio"><sub><b>aiXis</b></sub></a>
+      <a href="https://github.com/lxcadoza993"><sub><b>lxcadoza993</b></sub></a>
     </td>
   </tr>
 </table>
 
-<sub>Showing 24 of 42 followers.</sub>
+<sub>Showing 24 of 41 followers.</sub>
 <!--END_SECTION:top-followers-->
 
 </div>
