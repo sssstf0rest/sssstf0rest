@@ -334,18 +334,18 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/bludnic"><sub><b>bludnic</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/josejairobaltazargallegos-afk">
-        <img src="https://avatars.githubusercontent.com/u/255776148?v=4&s=100" width="80" alt="josejairobaltazargallegos-afk" />
-      </a>
-      <br />
-      <a href="https://github.com/josejairobaltazargallegos-afk"><sub><b>josejairobaltazargall…</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Git-FED">
         <img src="https://avatars.githubusercontent.com/u/309251726?v=4&s=100" width="80" alt="Git-FED" />
       </a>
       <br />
       <a href="https://github.com/Git-FED"><sub><b>www.fedpromptly.com</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/josejairobaltazargallegos-afk">
+        <img src="https://avatars.githubusercontent.com/u/255776148?v=4&s=100" width="80" alt="josejairobaltazargallegos-afk" />
+      </a>
+      <br />
+      <a href="https://github.com/josejairobaltazargallegos-afk"><sub><b>josejairobaltazargall…</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/vibecodinguy">
