@@ -239,6 +239,13 @@ I like building small gadgets — the fun kind that quietly make my life easier.
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/shahidazam2020-oss">
+        <img src="https://avatars.githubusercontent.com/u/242987063?v=4&s=100" width="80" alt="shahidazam2020-oss" />
+      </a>
+      <br />
+      <a href="https://github.com/shahidazam2020-oss"><sub><b>Shahid Azam</b></sub></a>
+    </td>
+    <td align="center">
       <a href="https://github.com/raviwijerathna1">
         <img src="https://avatars.githubusercontent.com/u/290047901?v=4&s=100" width="80" alt="raviwijerathna1" />
       </a>
@@ -251,13 +258,6 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       </a>
       <br />
       <a href="https://github.com/CharlesCreativeContent"><sub><b>Shawn Charles</b></sub></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/shahidazam2020-oss">
-        <img src="https://avatars.githubusercontent.com/u/242987063?v=4&s=100" width="80" alt="shahidazam2020-oss" />
-      </a>
-      <br />
-      <a href="https://github.com/shahidazam2020-oss"><sub><b>Shahid Azam</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/md-abu-kayser">
@@ -283,18 +283,18 @@ I like building small gadgets — the fun kind that quietly make my life easier.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/mwakidenis">
-        <img src="https://avatars.githubusercontent.com/u/182089390?v=4&s=100" width="80" alt="mwakidenis" />
-      </a>
-      <br />
-      <a href="https://github.com/mwakidenis"><sub><b>🐘</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/salikhussain71-code">
         <img src="https://avatars.githubusercontent.com/u/271632164?v=4&s=100" width="80" alt="salikhussain71-code" />
       </a>
       <br />
       <a href="https://github.com/salikhussain71-code"><sub><b>Salik Hussain</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mwakidenis">
+        <img src="https://avatars.githubusercontent.com/u/182089390?v=4&s=100" width="80" alt="mwakidenis" />
+      </a>
+      <br />
+      <a href="https://github.com/mwakidenis"><sub><b>🐘</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/MahdiKordian">
