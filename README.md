@@ -133,6 +133,7 @@ I like building small gadgets — the fun kind that quietly make my life easier.
   <a href="https://github.com/sssstf0rest/Open-Bookmarks-in-New-Tab"><strong>Open-Bookmarks-in-New-Tab</strong></a><br>
   <sub>A Lightweight Chrome extension that opens bookmarks in a new tab without navigating the current page. Supports English and Chinese (EN|CH)</sub><br><br>
   <a href="https://chromewebstore.google.com/detail/kklcekgmidaafmelbbbmmgcfgfigghmo"><img src="https://img.shields.io/chrome-web-store/v/kklcekgmidaafmelbbbmmgcfgfigghmo?style=flat-square&amp;labelColor=1b1f23&amp;label=Web%20Store&amp;color=4285f4&amp;logo=googlechrome&amp;logoColor=white" alt="Web Store" /></a>
+  <a href="https://chromewebstore.google.com/detail/kklcekgmidaafmelbbbmmgcfgfigghmo"><img src="https://img.shields.io/chrome-web-store/users/kklcekgmidaafmelbbbmmgcfgfigghmo?style=flat-square&amp;labelColor=1b1f23&amp;label=Users&amp;color=34a853&amp;logo=googlechrome&amp;logoColor=white" alt="Users" /></a>
   <a href="https://chromewebstore.google.com/detail/kklcekgmidaafmelbbbmmgcfgfigghmo"><img src="https://img.shields.io/chrome-web-store/stars/kklcekgmidaafmelbbbmmgcfgfigghmo?style=flat-square&amp;labelColor=1b1f23&amp;label=Rating&amp;color=fbbc05" alt="Rating" /></a>
   <a href="https://github.com/sssstf0rest/Open-Bookmarks-in-New-Tab/stargazers"><img src="https://img.shields.io/github/stars/sssstf0rest/Open-Bookmarks-in-New-Tab?style=flat-square&amp;labelColor=1b1f23&amp;color=f7b93e&amp;logo=github" alt="Stars" /></a>
   <a href="https://github.com/sssstf0rest/Open-Bookmarks-in-New-Tab/forks"><img src="https://img.shields.io/github/forks/sssstf0rest/Open-Bookmarks-in-New-Tab?style=flat-square&amp;labelColor=1b1f23&amp;color=6e7681&amp;logo=github" alt="Forks" /></a>
@@ -310,12 +311,21 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/arielshakaramiro"><sub><b>ArielShakaramiro</b></sub></a>
     </td>
     <td align="center">
+      <a href="https://github.com/TaroYamada08">
+        <img src="https://avatars.githubusercontent.com/u/26717838?v=4&s=100" width="80" alt="TaroYamada08" />
+      </a>
+      <br />
+      <a href="https://github.com/TaroYamada08"><sub><b>Taro Yamada</b></sub></a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ipqwery">
         <img src="https://avatars.githubusercontent.com/u/188051590?v=4&s=100" width="80" alt="ipqwery" />
       </a>
       <br />
       <a href="https://github.com/ipqwery"><sub><b>IPQuery</b></sub></a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/bludnic">
         <img src="https://avatars.githubusercontent.com/u/25831507?v=4&s=100" width="80" alt="bludnic" />
@@ -323,8 +333,6 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <br />
       <a href="https://github.com/bludnic"><sub><b>bludnic</b></sub></a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Git-FED">
         <img src="https://avatars.githubusercontent.com/u/309251726?v=4&s=100" width="80" alt="Git-FED" />
@@ -360,17 +368,10 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <br />
       <a href="https://github.com/shivam01112"><sub><b>Shivam Singh Negi</b></sub></a>
     </td>
-    <td align="center">
-      <a href="https://github.com/Ari4ka">
-        <img src="https://avatars.githubusercontent.com/u/166764074?v=4&s=100" width="80" alt="Ari4ka" />
-      </a>
-      <br />
-      <a href="https://github.com/Ari4ka"><sub><b>Ari4ka</b></sub></a>
-    </td>
   </tr>
 </table>
 
-<sub>Showing 24 of 38 followers.</sub>
+<sub>Showing 24 of 39 followers.</sub>
 <!--END_SECTION:top-followers-->
 
 </div>
