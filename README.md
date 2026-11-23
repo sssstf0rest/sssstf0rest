@@ -253,18 +253,18 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/raviwijerathna1"><sub><b>Ravi Wijerathna</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/CharlesCreativeContent">
-        <img src="https://avatars.githubusercontent.com/u/62077627?v=4&s=100" width="80" alt="CharlesCreativeContent" />
-      </a>
-      <br />
-      <a href="https://github.com/CharlesCreativeContent"><sub><b>Shawn Charles</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/md-abu-kayser">
         <img src="https://avatars.githubusercontent.com/u/67516307?v=4&s=100" width="80" alt="md-abu-kayser" />
       </a>
       <br />
       <a href="https://github.com/md-abu-kayser"><sub><b>Md Abu Kayser</b></sub></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/CharlesCreativeContent">
+        <img src="https://avatars.githubusercontent.com/u/62077627?v=4&s=100" width="80" alt="CharlesCreativeContent" />
+      </a>
+      <br />
+      <a href="https://github.com/CharlesCreativeContent"><sub><b>Shawn Charles</b></sub></a>
     </td>
     <td align="center">
       <a href="https://github.com/kpopdev">
@@ -311,21 +311,12 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/arielshakaramiro"><sub><b>ArielShakaramiro</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/TaroYamada08">
-        <img src="https://avatars.githubusercontent.com/u/26717838?v=4&s=100" width="80" alt="TaroYamada08" />
-      </a>
-      <br />
-      <a href="https://github.com/TaroYamada08"><sub><b>Taro Yamada</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/ipqwery">
         <img src="https://avatars.githubusercontent.com/u/188051590?v=4&s=100" width="80" alt="ipqwery" />
       </a>
       <br />
       <a href="https://github.com/ipqwery"><sub><b>IPQuery</b></sub></a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Git-FED">
         <img src="https://avatars.githubusercontent.com/u/309251726?v=4&s=100" width="80" alt="Git-FED" />
@@ -333,6 +324,8 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <br />
       <a href="https://github.com/Git-FED"><sub><b>www.fedpromptly.com</b></sub></a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/bludnic">
         <img src="https://avatars.githubusercontent.com/u/25831507?v=4&s=100" width="80" alt="bludnic" />
@@ -368,10 +361,17 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <br />
       <a href="https://github.com/shivam01112"><sub><b>Shivam Singh Negi</b></sub></a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Ari4ka">
+        <img src="https://avatars.githubusercontent.com/u/166764074?v=4&s=100" width="80" alt="Ari4ka" />
+      </a>
+      <br />
+      <a href="https://github.com/Ari4ka"><sub><b>Ari4ka</b></sub></a>
+    </td>
   </tr>
 </table>
 
-<sub>Showing 24 of 39 followers.</sub>
+<sub>Showing 24 of 38 followers.</sub>
 <!--END_SECTION:top-followers-->
 
 </div>
