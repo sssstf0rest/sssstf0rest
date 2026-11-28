@@ -122,6 +122,7 @@ I like building small gadgets — the fun kind that quietly make my life easier.
   <a href="https://github.com/sssstf0rest/GPT-Navigator-Helper"><strong>GPT-Navigator-Helper</strong></a><br>
   <sub>A Chrome extension that helps fix ChatGPT’s missing native navigator by automatically loading conversation history</sub><br><br>
   <a href="https://chromewebstore.google.com/detail/bpbajpcoifjncefjgbnnafkcgmjdcdli"><img src="https://img.shields.io/chrome-web-store/v/bpbajpcoifjncefjgbnnafkcgmjdcdli?style=flat-square&amp;labelColor=1b1f23&amp;label=Web%20Store&amp;color=4285f4&amp;logo=googlechrome&amp;logoColor=white" alt="Web Store" /></a>
+  <a href="https://chromewebstore.google.com/detail/bpbajpcoifjncefjgbnnafkcgmjdcdli"><img src="https://img.shields.io/chrome-web-store/users/bpbajpcoifjncefjgbnnafkcgmjdcdli?style=flat-square&amp;labelColor=1b1f23&amp;label=Users&amp;color=34a853&amp;logo=googlechrome&amp;logoColor=white" alt="Users" /></a>
   <a href="https://chromewebstore.google.com/detail/bpbajpcoifjncefjgbnnafkcgmjdcdli"><img src="https://img.shields.io/chrome-web-store/stars/bpbajpcoifjncefjgbnnafkcgmjdcdli?style=flat-square&amp;labelColor=1b1f23&amp;label=Rating&amp;color=fbbc05" alt="Rating" /></a>
   <a href="https://github.com/sssstf0rest/GPT-Navigator-Helper/stargazers"><img src="https://img.shields.io/github/stars/sssstf0rest/GPT-Navigator-Helper?style=flat-square&amp;labelColor=1b1f23&amp;color=f7b93e&amp;logo=github" alt="Stars" /></a>
   <a href="https://github.com/sssstf0rest/GPT-Navigator-Helper/forks"><img src="https://img.shields.io/github/forks/sssstf0rest/GPT-Navigator-Helper?style=flat-square&amp;labelColor=1b1f23&amp;color=6e7681&amp;logo=github" alt="Forks" /></a>
@@ -296,13 +297,6 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <a href="https://github.com/ipqwery"><sub><b>IPQuery</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/Git-FED">
-        <img src="https://avatars.githubusercontent.com/u/309251726?v=4&s=100" width="80" alt="Git-FED" />
-      </a>
-      <br />
-      <a href="https://github.com/Git-FED"><sub><b>www.fedpromptly.com</b></sub></a>
-    </td>
-    <td align="center">
       <a href="https://github.com/bludnic">
         <img src="https://avatars.githubusercontent.com/u/25831507?v=4&s=100" width="80" alt="bludnic" />
       </a>
@@ -323,8 +317,6 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <br />
       <a href="https://github.com/vibecodinguy"><sub><b>Vibecodinguy</b></sub></a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Krishnasaini0001">
         <img src="https://avatars.githubusercontent.com/u/219104815?v=4&s=100" width="80" alt="Krishnasaini0001" />
@@ -332,6 +324,8 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <br />
       <a href="https://github.com/Krishnasaini0001"><sub><b>Krishna Saini</b></sub></a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/shivam01112">
         <img src="https://avatars.githubusercontent.com/u/220692565?v=4&s=100" width="80" alt="shivam01112" />
@@ -367,10 +361,17 @@ I like building small gadgets — the fun kind that quietly make my life easier.
       <br />
       <a href="https://github.com/saif-pixel1"><sub><b>Saif Mansuri</b></sub></a>
     </td>
+    <td align="center">
+      <a href="https://github.com/SyedAliHaider02">
+        <img src="https://avatars.githubusercontent.com/u/94301114?v=4&s=100" width="80" alt="SyedAliHaider02" />
+      </a>
+      <br />
+      <a href="https://github.com/SyedAliHaider02"><sub><b>Syed Ali Haider</b></sub></a>
+    </td>
   </tr>
 </table>
 
-<sub>Showing 24 of 35 followers.</sub>
+<sub>Showing 24 of 34 followers.</sub>
 <!--END_SECTION:top-followers-->
 
 </div>
